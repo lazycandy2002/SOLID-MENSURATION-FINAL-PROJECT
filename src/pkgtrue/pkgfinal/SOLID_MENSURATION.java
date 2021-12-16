@@ -145,6 +145,16 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         jButton8 = new javax.swing.JButton();
         jButton9 = new javax.swing.JButton();
         dp21 = new javax.swing.JPanel();
+        jLabel90 = new javax.swing.JLabel();
+        jLabel91 = new javax.swing.JLabel();
+        jLabel92 = new javax.swing.JLabel();
+        t21 = new javax.swing.JTextField();
+        t22 = new javax.swing.JTextField();
+        jButton57 = new javax.swing.JButton();
+        jButton58 = new javax.swing.JButton();
+        t23 = new javax.swing.JTextField();
+        jLabel93 = new javax.swing.JLabel();
+        jLabel94 = new javax.swing.JLabel();
         dp22 = new javax.swing.JPanel();
         dp23 = new javax.swing.JPanel();
         fig3 = new javax.swing.JPanel();
@@ -869,8 +879,46 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
 
         fig2.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 216, 480));
 
-        dp21.setBackground(new java.awt.Color(102, 153, 255));
+        dp21.setBackground(new java.awt.Color(255, 255, 255));
         dp21.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel90.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/area-of-rectangle-java-program-300x268.jpg"))); // NOI18N
+        dp21.add(jLabel90, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 10, -1, -1));
+
+        jLabel91.setText("b");
+        dp21.add(jLabel91, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 320, -1, -1));
+
+        jLabel92.setText("h");
+        dp21.add(jLabel92, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 350, -1, -1));
+        dp21.add(t21, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 320, 160, -1));
+        dp21.add(t22, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 350, 160, -1));
+
+        jButton57.setText("CLEAR");
+        jButton57.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton57ActionPerformed(evt);
+            }
+        });
+        dp21.add(jButton57, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 380, -1, -1));
+
+        jButton58.setText("CALCULATE");
+        jButton58.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton58ActionPerformed(evt);
+            }
+        });
+        dp21.add(jButton58, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 380, -1, -1));
+
+        t23.setEditable(false);
+        dp21.add(t23, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 340, 130, -1));
+
+        jLabel93.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        jLabel93.setText("RESULT");
+        dp21.add(jLabel93, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 320, -1, -1));
+
+        jLabel94.setText("AREA");
+        dp21.add(jLabel94, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 340, -1, -1));
+
         fig2.add(dp21, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
 
         dp22.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -2933,6 +2981,20 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         dp21.setVisible(true);
     }//GEN-LAST:event_b2ActionPerformed
 
+    private void jButton57ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton57ActionPerformed
+    t21.setText("");
+    t22.setText("");
+    t23.setText("");
+    }//GEN-LAST:event_jButton57ActionPerformed
+
+    private void jButton58ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton58ActionPerformed
+      double numo1,numo2,r21;
+          numo1=Double.parseDouble(t21.getText());
+          numo2=Double.parseDouble(t22.getText());
+          r21 = (numo1 * numo2);
+          t23.setText(Double.toString(r21));
+    }//GEN-LAST:event_jButton58ActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -3099,6 +3161,8 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JButton jButton54;
     private javax.swing.JButton jButton55;
     private javax.swing.JButton jButton56;
+    private javax.swing.JButton jButton57;
+    private javax.swing.JButton jButton58;
     private javax.swing.JButton jButton6;
     private javax.swing.JButton jButton7;
     private javax.swing.JButton jButton8;
@@ -3192,6 +3256,11 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel88;
     private javax.swing.JLabel jLabel89;
     private javax.swing.JLabel jLabel9;
+    private javax.swing.JLabel jLabel90;
+    private javax.swing.JLabel jLabel91;
+    private javax.swing.JLabel jLabel92;
+    private javax.swing.JLabel jLabel93;
+    private javax.swing.JLabel jLabel94;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel10;
     private javax.swing.JPanel jPanel11;
@@ -3231,5 +3300,8 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JTextField t17;
     private javax.swing.JTextField t18;
     private javax.swing.JTextField t19;
+    private javax.swing.JTextField t21;
+    private javax.swing.JTextField t22;
+    private javax.swing.JTextField t23;
     // End of variables declaration//GEN-END:variables
 }

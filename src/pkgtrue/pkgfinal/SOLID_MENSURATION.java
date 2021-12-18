@@ -191,8 +191,35 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         jButton12 = new javax.swing.JButton();
         jButton13 = new javax.swing.JButton();
         dp31 = new javax.swing.JPanel();
+        jLabel108 = new javax.swing.JLabel();
+        jLabel111 = new javax.swing.JLabel();
+        jLabel112 = new javax.swing.JLabel();
+        t31 = new javax.swing.JTextField();
+        t32 = new javax.swing.JTextField();
+        jLabel113 = new javax.swing.JLabel();
+        jLabel114 = new javax.swing.JLabel();
+        jButton63 = new javax.swing.JButton();
+        jButton64 = new javax.swing.JButton();
         dp32 = new javax.swing.JPanel();
+        jLabel115 = new javax.swing.JLabel();
+        jLabel116 = new javax.swing.JLabel();
+        t33 = new javax.swing.JTextField();
+        t34 = new javax.swing.JTextField();
+        jButton65 = new javax.swing.JButton();
+        jButton66 = new javax.swing.JButton();
+        jLabel117 = new javax.swing.JLabel();
+        jLabel118 = new javax.swing.JLabel();
+        jLabel120 = new javax.swing.JLabel();
         dp33 = new javax.swing.JPanel();
+        jLabel119 = new javax.swing.JLabel();
+        jLabel121 = new javax.swing.JLabel();
+        jLabel122 = new javax.swing.JLabel();
+        t35 = new javax.swing.JTextField();
+        t36 = new javax.swing.JTextField();
+        jButton67 = new javax.swing.JButton();
+        jButton68 = new javax.swing.JButton();
+        jLabel123 = new javax.swing.JLabel();
+        Diagonals = new javax.swing.JLabel();
         fig4 = new javax.swing.JPanel();
         jPanel5 = new javax.swing.JPanel();
         jLabel30 = new javax.swing.JLabel();
@@ -1144,13 +1171,136 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
 
         fig3.add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 210, 480));
 
+        dp31.setBackground(new java.awt.Color(255, 255, 255));
         dp31.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel108.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/square-area.jpg"))); // NOI18N
+        dp31.add(jLabel108, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 100, -1, -1));
+
+        jLabel111.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel111.setText("SQUARE : SOLVE FOR AREA");
+        dp31.add(jLabel111, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 40, -1, -1));
+
+        jLabel112.setText("a");
+        dp31.add(jLabel112, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 160, 10, 20));
+        dp31.add(t31, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 160, 180, -1));
+
+        t32.setEditable(false);
+        dp31.add(t32, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 250, 180, -1));
+
+        jLabel113.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel113.setText("RESULT");
+        dp31.add(jLabel113, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 220, -1, -1));
+
+        jLabel114.setText("AREA :");
+        dp31.add(jLabel114, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 250, -1, 20));
+
+        jButton63.setText("CLEAR");
+        jButton63.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton63ActionPerformed(evt);
+            }
+        });
+        dp31.add(jButton63, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 190, -1, -1));
+
+        jButton64.setText("CALCULATE");
+        jButton64.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton64ActionPerformed(evt);
+            }
+        });
+        dp31.add(jButton64, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 190, -1, -1));
+
         fig3.add(dp31, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
 
+        dp32.setBackground(new java.awt.Color(255, 255, 255));
         dp32.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel115.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel115.setText("SQUARE : SOLVE FOR PERIMETER");
+        dp32.add(jLabel115, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, -1, -1));
+
+        jLabel116.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/square-perimeter.jpg"))); // NOI18N
+        dp32.add(jLabel116, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 120, -1, -1));
+
+        t33.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                t33ActionPerformed(evt);
+            }
+        });
+        dp32.add(t33, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 160, 170, -1));
+
+        t34.setEditable(false);
+        dp32.add(t34, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 260, 170, -1));
+
+        jButton65.setText("CLEAR");
+        jButton65.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton65ActionPerformed(evt);
+            }
+        });
+        dp32.add(jButton65, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 190, -1, -1));
+
+        jButton66.setText("CALCULATE");
+        jButton66.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton66ActionPerformed(evt);
+            }
+        });
+        dp32.add(jButton66, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 190, -1, -1));
+
+        jLabel117.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel117.setText("RESULT");
+        dp32.add(jLabel117, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 230, -1, -1));
+
+        jLabel118.setText("a");
+        dp32.add(jLabel118, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 160, 20, 20));
+
+        jLabel120.setText("Perimeter");
+        dp32.add(jLabel120, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 260, -1, 20));
+
         fig3.add(dp32, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
 
+        dp33.setBackground(new java.awt.Color(255, 255, 255));
         dp33.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel119.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel119.setText("SQUARE : SOLVE FOR DIAGONALS");
+        dp33.add(jLabel119, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, -1, -1));
+
+        jLabel121.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/square-diagonals.jpg"))); // NOI18N
+        dp33.add(jLabel121, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, -1, -1));
+
+        jLabel122.setText("a");
+        dp33.add(jLabel122, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 160, 10, 20));
+        dp33.add(t35, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 160, 170, -1));
+
+        t36.setEditable(false);
+        dp33.add(t36, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 260, 170, -1));
+
+        jButton67.setText("CLEAR");
+        jButton67.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton67ActionPerformed(evt);
+            }
+        });
+        dp33.add(jButton67, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 190, -1, -1));
+
+        jButton68.setText("CALCULATE");
+        jButton68.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton68ActionPerformed(evt);
+            }
+        });
+        dp33.add(jButton68, new org.netbeans.lib.awtextra.AbsoluteConstraints(570, 190, -1, -1));
+
+        jLabel123.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel123.setText("RESULT");
+        dp33.add(jLabel123, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 230, -1, -1));
+
+        Diagonals.setText("Diagonals");
+        dp33.add(Diagonals, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 260, -1, 20));
+
         fig3.add(dp33, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
 
         getContentPane().add(fig3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
@@ -3129,6 +3279,49 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         dp31.setVisible(true);
     }//GEN-LAST:event_b3ActionPerformed
 
+    private void jButton63ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton63ActionPerformed
+      t31.setText("");
+      t32.setText("");
+    }//GEN-LAST:event_jButton63ActionPerformed
+
+    private void jButton64ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton64ActionPerformed
+     Double numo8,r31;
+         numo8= Double.parseDouble(t31.getText());
+         r31=numo8 *numo8;
+         
+         t32.setText (Double.toString(r31));
+    }//GEN-LAST:event_jButton64ActionPerformed
+
+    private void jButton65ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton65ActionPerformed
+      t33.setText("");
+      t34.setText("");
+    }//GEN-LAST:event_jButton65ActionPerformed
+
+    private void jButton66ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton66ActionPerformed
+        Double numo9,r32;
+         numo9= Double.parseDouble(t33.getText());
+         r32= 4 * numo9;
+         
+         t34.setText (Double.toString(r32));
+    }//GEN-LAST:event_jButton66ActionPerformed
+
+    private void t33ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_t33ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_t33ActionPerformed
+
+    private void jButton67ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton67ActionPerformed
+      t35.setText("");
+      t36.setText("");
+    }//GEN-LAST:event_jButton67ActionPerformed
+
+    private void jButton68ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton68ActionPerformed
+        Double numo10,r33;
+         numo10= Double.parseDouble(t35.getText());
+         r33= (numo10 * Math.sqrt(2));
+         
+         t36.setText (Double.toString(r33));
+    }//GEN-LAST:event_jButton68ActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -3165,6 +3358,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JLabel Diagonals;
     private javax.swing.JButton b1;
     private javax.swing.JButton b10;
     private javax.swing.JButton b11;
@@ -3302,6 +3496,12 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JButton jButton60;
     private javax.swing.JButton jButton61;
     private javax.swing.JButton jButton62;
+    private javax.swing.JButton jButton63;
+    private javax.swing.JButton jButton64;
+    private javax.swing.JButton jButton65;
+    private javax.swing.JButton jButton66;
+    private javax.swing.JButton jButton67;
+    private javax.swing.JButton jButton68;
     private javax.swing.JButton jButton7;
     private javax.swing.JButton jButton8;
     private javax.swing.JButton jButton9;
@@ -3315,10 +3515,24 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel105;
     private javax.swing.JLabel jLabel106;
     private javax.swing.JLabel jLabel107;
+    private javax.swing.JLabel jLabel108;
     private javax.swing.JLabel jLabel109;
     private javax.swing.JLabel jLabel11;
     private javax.swing.JLabel jLabel110;
+    private javax.swing.JLabel jLabel111;
+    private javax.swing.JLabel jLabel112;
+    private javax.swing.JLabel jLabel113;
+    private javax.swing.JLabel jLabel114;
+    private javax.swing.JLabel jLabel115;
+    private javax.swing.JLabel jLabel116;
+    private javax.swing.JLabel jLabel117;
+    private javax.swing.JLabel jLabel118;
+    private javax.swing.JLabel jLabel119;
     private javax.swing.JLabel jLabel12;
+    private javax.swing.JLabel jLabel120;
+    private javax.swing.JLabel jLabel121;
+    private javax.swing.JLabel jLabel122;
+    private javax.swing.JLabel jLabel123;
     private javax.swing.JLabel jLabel13;
     private javax.swing.JLabel jLabel14;
     private javax.swing.JLabel jLabel15;
@@ -3461,5 +3675,11 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JTextField t27;
     private javax.swing.JTextField t28;
     private javax.swing.JTextField t29;
+    private javax.swing.JTextField t31;
+    private javax.swing.JTextField t32;
+    private javax.swing.JTextField t33;
+    private javax.swing.JTextField t34;
+    private javax.swing.JTextField t35;
+    private javax.swing.JTextField t36;
     // End of variables declaration//GEN-END:variables
 }

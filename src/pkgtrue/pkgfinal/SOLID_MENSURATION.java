@@ -29,6 +29,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        jLabel164 = new javax.swing.JLabel();
         maindisplay = new javax.swing.JPanel();
         jPanel1 = new javax.swing.JPanel();
         jLabel2 = new javax.swing.JLabel();
@@ -226,16 +227,37 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         jLabel31 = new javax.swing.JLabel();
         jButton17 = new javax.swing.JButton();
         dp41 = new javax.swing.JPanel();
+        jLabel32 = new javax.swing.JLabel();
+        jLabel124 = new javax.swing.JLabel();
+        jLabel125 = new javax.swing.JLabel();
+        jLabel126 = new javax.swing.JLabel();
+        t41 = new javax.swing.JTextField();
+        t42 = new javax.swing.JTextField();
+        t43 = new javax.swing.JTextField();
+        jButton14 = new javax.swing.JButton();
+        jButton15 = new javax.swing.JButton();
+        jLabel127 = new javax.swing.JLabel();
+        jLabel128 = new javax.swing.JLabel();
+        jLabel129 = new javax.swing.JLabel();
         fig5 = new javax.swing.JPanel();
         jPanel6 = new javax.swing.JPanel();
         jLabel33 = new javax.swing.JLabel();
         jLabel34 = new javax.swing.JLabel();
-        jLabel35 = new javax.swing.JLabel();
-        jButton18 = new javax.swing.JButton();
-        jButton19 = new javax.swing.JButton();
         jButton20 = new javax.swing.JButton();
         dp51 = new javax.swing.JPanel();
-        dp52 = new javax.swing.JPanel();
+        jLabel130 = new javax.swing.JLabel();
+        jLabel35 = new javax.swing.JLabel();
+        jLabel131 = new javax.swing.JLabel();
+        jLabel132 = new javax.swing.JLabel();
+        jLabel133 = new javax.swing.JLabel();
+        t51 = new javax.swing.JTextField();
+        t52 = new javax.swing.JTextField();
+        t53 = new javax.swing.JTextField();
+        jLabel134 = new javax.swing.JLabel();
+        jLabel135 = new javax.swing.JLabel();
+        jLabel136 = new javax.swing.JLabel();
+        jButton16 = new javax.swing.JButton();
+        jButton18 = new javax.swing.JButton();
         fig6 = new javax.swing.JPanel();
         jPanel7 = new javax.swing.JPanel();
         jLabel36 = new javax.swing.JLabel();
@@ -245,34 +267,121 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         jLabel37 = new javax.swing.JLabel();
         jLabel38 = new javax.swing.JLabel();
         dp61 = new javax.swing.JPanel();
+        jLabel137 = new javax.swing.JLabel();
+        jLabel138 = new javax.swing.JLabel();
+        jLabel139 = new javax.swing.JLabel();
+        jLabel140 = new javax.swing.JLabel();
+        t61 = new javax.swing.JTextField();
+        t62 = new javax.swing.JTextField();
+        t63 = new javax.swing.JTextField();
+        jButton19 = new javax.swing.JButton();
+        jButton69 = new javax.swing.JButton();
+        jLabel141 = new javax.swing.JLabel();
+        jLabel142 = new javax.swing.JLabel();
+        jLabel143 = new javax.swing.JLabel();
         dp62 = new javax.swing.JPanel();
+        jLabel144 = new javax.swing.JLabel();
+        jLabel145 = new javax.swing.JLabel();
+        jLabel146 = new javax.swing.JLabel();
+        jLabel147 = new javax.swing.JLabel();
+        t64 = new javax.swing.JTextField();
+        t65 = new javax.swing.JTextField();
+        t66 = new javax.swing.JTextField();
+        jButton70 = new javax.swing.JButton();
+        jButton71 = new javax.swing.JButton();
+        jLabel148 = new javax.swing.JLabel();
+        jLabel149 = new javax.swing.JLabel();
         fig7 = new javax.swing.JPanel();
         jPanel8 = new javax.swing.JPanel();
         jLabel39 = new javax.swing.JLabel();
         jLabel40 = new javax.swing.JLabel();
         jButton24 = new javax.swing.JButton();
         dp71 = new javax.swing.JPanel();
+        jLabel150 = new javax.swing.JLabel();
+        jLabel151 = new javax.swing.JLabel();
+        jLabel152 = new javax.swing.JLabel();
+        jLabel153 = new javax.swing.JLabel();
+        t71 = new javax.swing.JTextField();
+        t72 = new javax.swing.JTextField();
+        t73 = new javax.swing.JTextField();
+        t74 = new javax.swing.JTextField();
+        jButton72 = new javax.swing.JButton();
+        jButton73 = new javax.swing.JButton();
+        jLabel154 = new javax.swing.JLabel();
+        jLabel155 = new javax.swing.JLabel();
+        jLabel156 = new javax.swing.JLabel();
+        jLabel157 = new javax.swing.JLabel();
         fig8 = new javax.swing.JPanel();
         jPanel9 = new javax.swing.JPanel();
         jLabel42 = new javax.swing.JLabel();
         jLabel41 = new javax.swing.JLabel();
         jButton25 = new javax.swing.JButton();
         dp81 = new javax.swing.JPanel();
+        jLabel158 = new javax.swing.JLabel();
+        jLabel159 = new javax.swing.JLabel();
+        jLabel160 = new javax.swing.JLabel();
+        jLabel161 = new javax.swing.JLabel();
+        t81 = new javax.swing.JTextField();
+        t82 = new javax.swing.JTextField();
+        t83 = new javax.swing.JTextField();
+        t84 = new javax.swing.JTextField();
+        jButton74 = new javax.swing.JButton();
+        jButton75 = new javax.swing.JButton();
+        t85 = new javax.swing.JTextField();
+        jLabel162 = new javax.swing.JLabel();
+        jLabel163 = new javax.swing.JLabel();
+        jLabel165 = new javax.swing.JLabel();
+        jLabel166 = new javax.swing.JLabel();
+        jLabel167 = new javax.swing.JLabel();
         fig9 = new javax.swing.JPanel();
         jPanel10 = new javax.swing.JPanel();
         jLabel43 = new javax.swing.JLabel();
         jButton26 = new javax.swing.JButton();
         dp91 = new javax.swing.JPanel();
+        jLabel168 = new javax.swing.JLabel();
+        jLabel169 = new javax.swing.JLabel();
+        jLabel171 = new javax.swing.JLabel();
+        jLabel170 = new javax.swing.JLabel();
+        t91 = new javax.swing.JTextField();
+        t92 = new javax.swing.JTextField();
+        jButton76 = new javax.swing.JButton();
+        jButton77 = new javax.swing.JButton();
+        t95 = new javax.swing.JTextField();
+        t96 = new javax.swing.JTextField();
+        jButton78 = new javax.swing.JButton();
+        jButton79 = new javax.swing.JButton();
+        t94 = new javax.swing.JTextField();
+        t97 = new javax.swing.JTextField();
+        jLabel172 = new javax.swing.JLabel();
+        jLabel173 = new javax.swing.JLabel();
+        jLabel174 = new javax.swing.JLabel();
+        t93 = new javax.swing.JTextField();
+        jLabel175 = new javax.swing.JLabel();
+        jLabel176 = new javax.swing.JLabel();
+        jLabel177 = new javax.swing.JLabel();
+        jLabel178 = new javax.swing.JLabel();
+        jLabel179 = new javax.swing.JLabel();
+        jLabel180 = new javax.swing.JLabel();
+        t98 = new javax.swing.JTextField();
         fig10 = new javax.swing.JPanel();
         jPanel11 = new javax.swing.JPanel();
         jLabel45 = new javax.swing.JLabel();
+        jButton30 = new javax.swing.JButton();
+        jLabel181 = new javax.swing.JLabel();
+        dp101 = new javax.swing.JPanel();
+        jLabel182 = new javax.swing.JLabel();
+        jLabel183 = new javax.swing.JLabel();
+        jLabel184 = new javax.swing.JLabel();
+        t101 = new javax.swing.JTextField();
+        t102 = new javax.swing.JTextField();
+        t103 = new javax.swing.JTextField();
+        t104 = new javax.swing.JTextField();
         jButton27 = new javax.swing.JButton();
         jButton28 = new javax.swing.JButton();
-        jButton29 = new javax.swing.JButton();
-        jButton30 = new javax.swing.JButton();
-        dp101 = new javax.swing.JPanel();
-        dp102 = new javax.swing.JPanel();
-        dp103 = new javax.swing.JPanel();
+        jLabel185 = new javax.swing.JLabel();
+        jLabel186 = new javax.swing.JLabel();
+        jLabel187 = new javax.swing.JLabel();
+        jLabel188 = new javax.swing.JLabel();
         fig11 = new javax.swing.JPanel();
         jPanel12 = new javax.swing.JPanel();
         jLabel44 = new javax.swing.JLabel();
@@ -346,6 +455,8 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         dp202 = new javax.swing.JPanel();
         dp203 = new javax.swing.JPanel();
         dp204 = new javax.swing.JPanel();
+
+        jLabel164.setText("jLabel164");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("SOLID MENSURATION CALCULATOR");
@@ -444,28 +555,58 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         });
         maindisplay.add(b4, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 360, 180, 30));
 
-        b5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/PARALLELOGRAM.jpg"))); // NOI18N
+        b5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pyramid.jpg"))); // NOI18N
         b5.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b5.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b5ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b5, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 410, 180, 30));
 
         b6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/rhomus.jpg"))); // NOI18N
         b6.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b6.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b6ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b6, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 210, 180, 30));
 
         b7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Trapezoid-ICON-.png"))); // NOI18N
         b7.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b7.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b7ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b7, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 260, 180, 30));
 
         b8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cyclic-quadrilatiral.jpg"))); // NOI18N
         b8.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b8.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b8ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b8, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 310, 180, 30));
 
         b9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/PYTOLEMY'S-THEOERM.jpg"))); // NOI18N
         b9.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b9.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b9ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b9, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 360, 180, 30));
 
-        b10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/angles-and-diagonals.jpg"))); // NOI18N
+        b10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/ellipsiod.jpg"))); // NOI18N
         b10.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b10.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b10ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b10, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 410, 180, 30));
 
         b11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/regular-polygon.jpg"))); // NOI18N
@@ -1354,6 +1495,52 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
 
         dp41.setBackground(new java.awt.Color(255, 255, 255));
         dp41.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel32.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
+        jLabel32.setText("PRISM : SOLVE FOR VOLUME");
+        dp41.add(jLabel32, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 20, -1, -1));
+
+        jLabel124.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel124.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/prism-example.jpg"))); // NOI18N
+        dp41.add(jLabel124, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 270, 300, 200));
+
+        jLabel125.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/prism-example1.jpg"))); // NOI18N
+        dp41.add(jLabel125, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 40, 370, 250));
+
+        jLabel126.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel126.setText("EXAMPLE :");
+        dp41.add(jLabel126, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 270, -1, -1));
+        dp41.add(t41, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 90, 170, 30));
+        dp41.add(t42, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 130, 170, 30));
+
+        t43.setEditable(false);
+        dp41.add(t43, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 220, 170, -1));
+
+        jButton14.setText("CLEAR");
+        jButton14.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton14ActionPerformed(evt);
+            }
+        });
+        dp41.add(jButton14, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 170, -1, -1));
+
+        jButton15.setText("CALCULATE");
+        jButton15.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton15ActionPerformed(evt);
+            }
+        });
+        dp41.add(jButton15, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 170, 100, -1));
+
+        jLabel127.setText("h:");
+        dp41.add(jLabel127, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 100, -1, -1));
+
+        jLabel128.setText("VOLUME:");
+        dp41.add(jLabel128, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 220, -1, -1));
+
+        jLabel129.setText("A△ :");
+        dp41.add(jLabel129, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 140, -1, 20));
+
         fig4.add(dp41, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
 
         getContentPane().add(fig4, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
@@ -1363,29 +1550,11 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
 
         jPanel6.setBackground(new java.awt.Color(102, 102, 255));
 
-        jLabel33.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/PARALLELOGRAM.jpg"))); // NOI18N
+        jLabel33.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pyramid.jpg"))); // NOI18N
 
         jLabel34.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel34.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel34.setText("SOLVE FOR AREA");
-
-        jLabel35.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-        jLabel35.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel35.setText("GIVEN :");
-
-        jButton18.setText("Diagonals d1, d2 included angle θ");
-        jButton18.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jButton18MouseClicked(evt);
-            }
-        });
-
-        jButton19.setText("Two sides a and b and one angle A");
-        jButton19.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jButton19MouseClicked(evt);
-            }
-        });
+        jLabel34.setText("SOLVE FOR VOLUME");
 
         jButton20.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jButton20.setText("BACK");
@@ -1399,67 +1568,85 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         jPanel6.setLayout(jPanel6Layout);
         jPanel6Layout.setHorizontalGroup(
             jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jButton20, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
             .addGroup(jPanel6Layout.createSequentialGroup()
                 .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jPanel6Layout.createSequentialGroup()
-                        .addGap(19, 19, 19)
+                        .addContainerGap()
                         .addComponent(jLabel33))
                     .addGroup(jPanel6Layout.createSequentialGroup()
-                        .addGap(48, 48, 48)
-                        .addComponent(jLabel34))
-                    .addGroup(jPanel6Layout.createSequentialGroup()
-                        .addContainerGap()
-                        .addComponent(jLabel35)))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-            .addComponent(jButton18, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addComponent(jButton19, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addComponent(jButton20, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addGap(35, 35, 35)
+                        .addComponent(jLabel34)))
+                .addContainerGap(14, Short.MAX_VALUE))
         );
         jPanel6Layout.setVerticalGroup(
             jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel6Layout.createSequentialGroup()
                 .addGap(80, 80, 80)
                 .addComponent(jLabel33)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel34)
-                .addGap(38, 38, 38)
-                .addComponent(jLabel35)
-                .addGap(33, 33, 33)
-                .addComponent(jButton18, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(18, 18, 18)
-                .addComponent(jButton19, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 281, Short.MAX_VALUE)
                 .addComponent(jButton20, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(74, 74, 74))
         );
 
-        fig5.add(jPanel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig5.add(jPanel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 200, 520));
 
-        javax.swing.GroupLayout dp52Layout = new javax.swing.GroupLayout(dp52);
-        dp52.setLayout(dp52Layout);
-        dp52Layout.setHorizontalGroup(
-            dp52Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp52Layout.setVerticalGroup(
-            dp52Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp51.setBackground(new java.awt.Color(255, 255, 255));
+        dp51.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        javax.swing.GroupLayout dp51Layout = new javax.swing.GroupLayout(dp51);
-        dp51.setLayout(dp51Layout);
-        dp51Layout.setHorizontalGroup(
-            dp51Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp52, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
-        dp51Layout.setVerticalGroup(
-            dp51Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp52, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
+        jLabel130.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel130.setText("SQUARE PYRAMID : SOLVE FOR VOLUME");
+        dp51.add(jLabel130, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, -1));
 
-        fig5.add(dp51, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jLabel35.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pyramid-1.jpg"))); // NOI18N
+        dp51.add(jLabel35, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, 350, 250));
 
-        getContentPane().add(fig5, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jLabel131.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pyramid-2.jpg"))); // NOI18N
+        dp51.add(jLabel131, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 280, 250, 240));
+
+        jLabel132.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        jLabel132.setText("EXAMPLE :");
+        dp51.add(jLabel132, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 270, -1, -1));
+
+        jLabel133.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        jLabel133.setText("pyramid whose base is 8 cm by 6 cm and the height is 10 cm.");
+        dp51.add(jLabel133, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 260, 340, -1));
+        dp51.add(t51, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 120, 170, -1));
+        dp51.add(t52, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 160, 170, -1));
+
+        t53.setEditable(false);
+        dp51.add(t53, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 240, 170, -1));
+
+        jLabel134.setText("h:");
+        dp51.add(jLabel134, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 120, -1, -1));
+
+        jLabel135.setText("A² : ");
+        dp51.add(jLabel135, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 160, -1, -1));
+
+        jLabel136.setText("VOLUME :");
+        dp51.add(jLabel136, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 240, -1, -1));
+
+        jButton16.setText("CLEAR");
+        jButton16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton16ActionPerformed(evt);
+            }
+        });
+        dp51.add(jButton16, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 190, -1, -1));
+
+        jButton18.setText("CALCULATE");
+        jButton18.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton18ActionPerformed(evt);
+            }
+        });
+        dp51.add(jButton18, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 190, -1, -1));
+
+        fig5.add(dp51, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 0, 700, 520));
+
+        getContentPane().add(fig5, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig6.setMaximumSize(new java.awt.Dimension(920, 530));
         fig6.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -1537,37 +1724,105 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
                 .addGap(63, 63, 63))
         );
 
-        fig6.add(jPanel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig6.add(jPanel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 210, 480));
 
-        dp61.setBackground(new java.awt.Color(204, 204, 255));
+        dp61.setBackground(new java.awt.Color(255, 255, 255));
+        dp61.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel137.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/rhombus1.jpg"))); // NOI18N
+        dp61.add(jLabel137, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 200, 200, 290));
+
+        jLabel138.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel138.setText("EXAMPLE :");
+        dp61.add(jLabel138, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 190, -1, -1));
+
+        jLabel139.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel139.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/rhombusarea.jpg"))); // NOI18N
+        dp61.add(jLabel139, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 30, 330, 190));
+
+        jLabel140.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
+        jLabel140.setText("RHOMBUS :");
+        dp61.add(jLabel140, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
+        dp61.add(t61, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 260, 170, -1));
+        dp61.add(t62, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 310, 170, -1));
+        dp61.add(t63, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 400, 170, -1));
+
+        jButton19.setText("CLEAR");
+        jButton19.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton19ActionPerformed(evt);
+            }
+        });
+        dp61.add(jButton19, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 340, -1, -1));
+
+        jButton69.setText("CALCULATE");
+        jButton69.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton69ActionPerformed(evt);
+            }
+        });
+        dp61.add(jButton69, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 340, -1, -1));
+
+        jLabel141.setText("Diagonal 1 :");
+        dp61.add(jLabel141, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 260, -1, 20));
+
+        jLabel142.setText("Diagnonal 2 :");
+        dp61.add(jLabel142, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 310, -1, 20));
+
+        jLabel143.setText("AREA :");
+        dp61.add(jLabel143, new org.netbeans.lib.awtextra.AbsoluteConstraints(400, 400, -1, 20));
+
+        fig6.add(dp61, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
 
         dp62.setBackground(new java.awt.Color(255, 255, 255));
+        dp62.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        javax.swing.GroupLayout dp62Layout = new javax.swing.GroupLayout(dp62);
-        dp62.setLayout(dp62Layout);
-        dp62Layout.setHorizontalGroup(
-            dp62Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp62Layout.setVerticalGroup(
-            dp62Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        jLabel144.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
+        jLabel144.setText("RHOMBUS :");
+        dp62.add(jLabel144, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, -1));
 
-        javax.swing.GroupLayout dp61Layout = new javax.swing.GroupLayout(dp61);
-        dp61.setLayout(dp61Layout);
-        dp61Layout.setHorizontalGroup(
-            dp61Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp62, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
-        dp61Layout.setVerticalGroup(
-            dp61Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp62, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
+        jLabel145.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel145.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/rhombus2.jpg"))); // NOI18N
+        dp62.add(jLabel145, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 170, 150, 290));
 
-        fig6.add(dp61, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jLabel146.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel146.setText("EXAMPLE :");
+        dp62.add(jLabel146, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 200, -1, -1));
 
-        getContentPane().add(fig6, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jLabel147.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/rhombusarea.jpg"))); // NOI18N
+        jLabel147.setText("jLabel147");
+        dp62.add(jLabel147, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 20, 220, 190));
+        dp62.add(t64, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 260, 170, -1));
+        dp62.add(t65, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 300, 170, -1));
+
+        t66.setEditable(false);
+        dp62.add(t66, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 380, 170, -1));
+
+        jButton70.setText("CLEAR");
+        jButton70.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton70ActionPerformed(evt);
+            }
+        });
+        dp62.add(jButton70, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 330, -1, -1));
+
+        jButton71.setText("CALCULATE");
+        jButton71.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton71ActionPerformed(evt);
+            }
+        });
+        dp62.add(jButton71, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 330, -1, -1));
+
+        jLabel148.setText("side a:");
+        dp62.add(jLabel148, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 260, -1, 20));
+
+        jLabel149.setText("Angle a :");
+        dp62.add(jLabel149, new org.netbeans.lib.awtextra.AbsoluteConstraints(370, 300, -1, -1));
+
+        fig6.add(dp62, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
+
+        getContentPane().add(fig6, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig7.setBackground(new java.awt.Color(255, 255, 255));
         fig7.setMaximumSize(new java.awt.Dimension(920, 530));
@@ -1615,22 +1870,62 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
                 .addGap(98, 98, 98))
         );
 
-        fig7.add(jPanel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig7.add(jPanel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 200, 480));
 
-        javax.swing.GroupLayout dp71Layout = new javax.swing.GroupLayout(dp71);
-        dp71.setLayout(dp71Layout);
-        dp71Layout.setHorizontalGroup(
-            dp71Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp71Layout.setVerticalGroup(
-            dp71Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp71.setBackground(new java.awt.Color(255, 255, 255));
+        dp71.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        fig7.add(dp71, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jLabel150.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
+        jLabel150.setText("TRAPEZIOD : SOLVE FOR AREA");
+        dp71.add(jLabel150, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, -1));
 
-        getContentPane().add(fig7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jLabel151.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Trapezoid1.png"))); // NOI18N
+        dp71.add(jLabel151, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 310, 350, 130));
+
+        jLabel152.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        jLabel152.setText("EXAMPLE:");
+        dp71.add(jLabel152, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 290, -1, -1));
+
+        jLabel153.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Trapezoid2.png"))); // NOI18N
+        dp71.add(jLabel153, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 90, 400, 180));
+        dp71.add(t71, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 210, 170, -1));
+        dp71.add(t72, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 250, 170, -1));
+        dp71.add(t73, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 290, 170, -1));
+
+        t74.setEditable(false);
+        dp71.add(t74, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 380, 170, -1));
+
+        jButton72.setText("CLEAR");
+        jButton72.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton72ActionPerformed(evt);
+            }
+        });
+        dp71.add(jButton72, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 320, -1, -1));
+
+        jButton73.setText("CALCULATE");
+        jButton73.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton73ActionPerformed(evt);
+            }
+        });
+        dp71.add(jButton73, new org.netbeans.lib.awtextra.AbsoluteConstraints(580, 320, -1, -1));
+
+        jLabel154.setText("a :");
+        dp71.add(jLabel154, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 210, -1, 20));
+
+        jLabel155.setText("b :");
+        dp71.add(jLabel155, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 250, -1, 20));
+
+        jLabel156.setText("h :");
+        dp71.add(jLabel156, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 290, -1, 20));
+
+        jLabel157.setText("AREA :");
+        dp71.add(jLabel157, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 380, -1, 20));
+
+        fig7.add(dp71, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 0, 710, 480));
+
+        getContentPane().add(fig7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig8.setMaximumSize(new java.awt.Dimension(920, 530));
         fig8.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -1678,22 +1973,66 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
                 .addGap(77, 77, 77))
         );
 
-        fig8.add(jPanel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig8.add(jPanel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 200, 480));
 
-        javax.swing.GroupLayout dp81Layout = new javax.swing.GroupLayout(dp81);
-        dp81.setLayout(dp81Layout);
-        dp81Layout.setHorizontalGroup(
-            dp81Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp81Layout.setVerticalGroup(
-            dp81Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp81.setBackground(new java.awt.Color(255, 255, 255));
+        dp81.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        fig8.add(dp81, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jLabel158.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cyclic-quadrilatiral1.jpg"))); // NOI18N
+        dp81.add(jLabel158, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 260, -1, 210));
 
-        getContentPane().add(fig8, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jLabel159.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cyclic-quadrilatiral2jpg.jpg"))); // NOI18N
+        dp81.add(jLabel159, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 30, -1, 200));
+
+        jLabel160.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel160.setText("CYCLIC QUADRILATIRAL");
+        dp81.add(jLabel160, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, 40));
+
+        jLabel161.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        jLabel161.setText("EXAMPLE:");
+        dp81.add(jLabel161, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 240, -1, -1));
+        dp81.add(t81, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 100, 170, -1));
+        dp81.add(t82, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 130, 170, -1));
+        dp81.add(t83, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 160, 170, -1));
+        dp81.add(t84, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 190, 170, -1));
+
+        jButton74.setText("CLEAR");
+        jButton74.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton74ActionPerformed(evt);
+            }
+        });
+        dp81.add(jButton74, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 220, -1, -1));
+
+        jButton75.setText("CALCULATE");
+        jButton75.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton75ActionPerformed(evt);
+            }
+        });
+        dp81.add(jButton75, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 220, -1, -1));
+
+        t85.setEditable(false);
+        dp81.add(t85, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 290, 170, -1));
+
+        jLabel162.setText("AREA :");
+        dp81.add(jLabel162, new org.netbeans.lib.awtextra.AbsoluteConstraints(440, 290, -1, 20));
+
+        jLabel163.setText("a :");
+        dp81.add(jLabel163, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 100, -1, 20));
+
+        jLabel165.setText("b :");
+        dp81.add(jLabel165, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 130, -1, 20));
+
+        jLabel166.setText("c :");
+        dp81.add(jLabel166, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 160, -1, 20));
+
+        jLabel167.setText("d :");
+        dp81.add(jLabel167, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 190, -1, 20));
+
+        fig8.add(dp81, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 0, 710, 480));
+
+        getContentPane().add(fig8, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig9.setMaximumSize(new java.awt.Dimension(920, 530));
         fig9.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -1731,55 +2070,109 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
                 .addGap(66, 66, 66))
         );
 
-        fig9.add(jPanel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig9.add(jPanel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 200, 480));
 
-        javax.swing.GroupLayout dp91Layout = new javax.swing.GroupLayout(dp91);
-        dp91.setLayout(dp91Layout);
-        dp91Layout.setHorizontalGroup(
-            dp91Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp91Layout.setVerticalGroup(
-            dp91Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp91.setBackground(new java.awt.Color(255, 255, 255));
+        dp91.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        fig9.add(dp91, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jLabel168.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel168.setText("PTOLEMY'S THEOREM");
+        dp91.add(jLabel168, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, -1));
 
-        getContentPane().add(fig9, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jLabel169.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel169.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/PYTOLEMY'S-THEOERM1.jpg"))); // NOI18N
+        dp91.add(jLabel169, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 220, 340, 250));
+
+        jLabel171.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel171.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/PYTOLEMY'S-THEOERM2.jpg"))); // NOI18N
+        jLabel171.setText("jLabel171");
+        dp91.add(jLabel171, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 50, 230, 170));
+
+        jLabel170.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel170.setText("EXAMPLE :");
+        dp91.add(jLabel170, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 200, -1, -1));
+        dp91.add(t91, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 50, 170, -1));
+        dp91.add(t92, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 80, 170, -1));
+
+        jButton76.setText("CLEAR");
+        jButton76.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton76ActionPerformed(evt);
+            }
+        });
+        dp91.add(jButton76, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 170, -1, -1));
+
+        jButton77.setText("CALCULATE");
+        jButton77.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton77ActionPerformed(evt);
+            }
+        });
+        dp91.add(jButton77, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 170, -1, -1));
+        dp91.add(t95, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 210, 170, 30));
+        dp91.add(t96, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 250, 170, 30));
+
+        jButton78.setText("CLEAR");
+        jButton78.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton78ActionPerformed(evt);
+            }
+        });
+        dp91.add(jButton78, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 290, -1, 30));
+
+        jButton79.setText("CALCULATE");
+        jButton79.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton79ActionPerformed(evt);
+            }
+        });
+        dp91.add(jButton79, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 290, -1, 30));
+
+        t94.setEditable(false);
+        dp91.add(t94, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 340, 170, -1));
+
+        t97.setEditable(false);
+        dp91.add(t97, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 370, 170, -1));
+
+        jLabel172.setText("NOTE : if the result is same.Your answer is correct.");
+        dp91.add(jLabel172, new org.netbeans.lib.awtextra.AbsoluteConstraints(390, 400, -1, -1));
+
+        jLabel173.setText("AD :");
+        dp91.add(jLabel173, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 50, -1, 20));
+
+        jLabel174.setText("AB :");
+        dp91.add(jLabel174, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 80, -1, 20));
+        dp91.add(t93, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 110, 170, -1));
+
+        jLabel175.setText("BC :");
+        dp91.add(jLabel175, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 110, -1, 20));
+
+        jLabel176.setText("AC :");
+        dp91.add(jLabel176, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 220, -1, 20));
+
+        jLabel177.setText("BD :");
+        dp91.add(jLabel177, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 250, -1, 20));
+
+        jLabel178.setText("SIDE A:");
+        dp91.add(jLabel178, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 340, -1, 20));
+
+        jLabel179.setText("SIDE B :");
+        dp91.add(jLabel179, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 370, -1, 20));
+
+        jLabel180.setText("DC :");
+        dp91.add(jLabel180, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 140, -1, 20));
+        dp91.add(t98, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 140, 170, -1));
+
+        fig9.add(dp91, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 0, 710, 480));
+
+        getContentPane().add(fig9, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig10.setMaximumSize(new java.awt.Dimension(920, 530));
         fig10.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jPanel11.setBackground(new java.awt.Color(102, 102, 255));
 
-        jLabel45.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/angles-and-diagonals.jpg"))); // NOI18N
-
-        jButton27.setText("Sum of interior angles");
-        jButton27.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jButton27MouseClicked(evt);
-            }
-        });
-
-        jButton28.setText("Sum of exterior angles");
-        jButton28.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jButton28MouseClicked(evt);
-            }
-        });
-
-        jButton29.setText("Number of Diagonals");
-        jButton29.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jButton29MouseClicked(evt);
-            }
-        });
-        jButton29.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton29ActionPerformed(evt);
-            }
-        });
+        jLabel45.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/ellipsiod.jpg"))); // NOI18N
 
         jButton30.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jButton30.setText("BACK");
@@ -1789,73 +2182,89 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
             }
         });
 
+        jLabel181.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        jLabel181.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel181.setText("SOLVE FOR VOLUME");
+
         javax.swing.GroupLayout jPanel11Layout = new javax.swing.GroupLayout(jPanel11);
         jPanel11.setLayout(jPanel11Layout);
         jPanel11Layout.setHorizontalGroup(
             jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jButton30, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
             .addGroup(jPanel11Layout.createSequentialGroup()
                 .addGap(21, 21, 21)
                 .addComponent(jLabel45)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-            .addComponent(jButton27, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addComponent(jButton29, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addComponent(jButton28, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addComponent(jButton30, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addContainerGap(13, Short.MAX_VALUE))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel11Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel181)
+                .addGap(45, 45, 45))
         );
         jPanel11Layout.setVerticalGroup(
             jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel11Layout.createSequentialGroup()
                 .addGap(52, 52, 52)
                 .addComponent(jLabel45)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(jButton27, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jButton28, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jButton29, javax.swing.GroupLayout.PREFERRED_SIZE, 31, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(100, 100, 100)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jLabel181)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 295, Short.MAX_VALUE)
                 .addComponent(jButton30, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(50, 50, 50))
         );
 
-        fig10.add(jPanel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig10.add(jPanel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 210, 480));
 
-        javax.swing.GroupLayout dp103Layout = new javax.swing.GroupLayout(dp103);
-        dp103.setLayout(dp103Layout);
-        dp103Layout.setHorizontalGroup(
-            dp103Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp103Layout.setVerticalGroup(
-            dp103Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp101.setBackground(new java.awt.Color(255, 255, 255));
+        dp101.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        javax.swing.GroupLayout dp102Layout = new javax.swing.GroupLayout(dp102);
-        dp102.setLayout(dp102Layout);
-        dp102Layout.setHorizontalGroup(
-            dp102Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp103, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
-        dp102Layout.setVerticalGroup(
-            dp102Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp103, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
+        jLabel182.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
+        jLabel182.setText("ELLIPSOID");
+        dp101.add(jLabel182, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, -1, -1));
 
-        javax.swing.GroupLayout dp101Layout = new javax.swing.GroupLayout(dp101);
-        dp101.setLayout(dp101Layout);
-        dp101Layout.setHorizontalGroup(
-            dp101Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp102, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
-        dp101Layout.setVerticalGroup(
-            dp101Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp102, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
+        jLabel183.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel183.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/ellipsiod1.jpg"))); // NOI18N
+        dp101.add(jLabel183, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 70, 260, 230));
 
-        fig10.add(dp101, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jLabel184.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/ellipsiod2.jpg"))); // NOI18N
+        dp101.add(jLabel184, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 280, 380, 130));
+        dp101.add(t101, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 150, 170, -1));
+        dp101.add(t102, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 180, 170, -1));
+        dp101.add(t103, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 210, 170, -1));
 
-        getContentPane().add(fig10, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        t104.setEditable(false);
+        dp101.add(t104, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 310, 170, -1));
+
+        jButton27.setText("CLEAR");
+        jButton27.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton27ActionPerformed(evt);
+            }
+        });
+        dp101.add(jButton27, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 240, -1, -1));
+
+        jButton28.setText("CALCULATE");
+        jButton28.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton28ActionPerformed(evt);
+            }
+        });
+        dp101.add(jButton28, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 240, -1, -1));
+
+        jLabel185.setText("a :");
+        dp101.add(jLabel185, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 150, -1, 20));
+
+        jLabel186.setText("b :");
+        dp101.add(jLabel186, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 180, -1, 20));
+
+        jLabel187.setText("c :");
+        dp101.add(jLabel187, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 210, -1, 20));
+
+        jLabel188.setText("VOLUME :");
+        dp101.add(jLabel188, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 310, -1, 20));
+
+        fig10.add(dp101, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
+
+        getContentPane().add(fig10, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig11.setMaximumSize(new java.awt.Dimension(920, 530));
         fig11.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -1951,7 +2360,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
 
         fig11.add(dp111, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
 
-        getContentPane().add(fig11, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        getContentPane().add(fig11, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig12.setMaximumSize(new java.awt.Dimension(920, 530));
         fig12.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -2796,20 +3205,6 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     fig4.setVisible(false);
     }//GEN-LAST:event_jButton17MouseClicked
 
-    private void jButton18MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton18MouseClicked
-    dp51.setVisible(true);
-    dp52.setVisible(false);
-    jButton18.setBackground(Color.RED);
-    jButton19.setBackground(new Color (204,204,204));
-    }//GEN-LAST:event_jButton18MouseClicked
-
-    private void jButton19MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton19MouseClicked
-    dp52.setVisible(true);
-    dp51.setVisible(false);
-    jButton19.setBackground(Color.RED);
-    jButton18.setBackground(new Color (204,204,204));
-    }//GEN-LAST:event_jButton19MouseClicked
-
     private void jButton20MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton20MouseClicked
     maindisplay.setVisible(true);
     fig5.setVisible(false);
@@ -2848,37 +3243,6 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
      maindisplay.setVisible(true);
      fig9.setVisible(false);
     }//GEN-LAST:event_jButton26MouseClicked
-
-    private void jButton27MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton27MouseClicked
-     dp101.setVisible(true);
-     dp102.setVisible(false);
-     dp103.setVisible(false);
-     jButton27.setBackground(Color.RED);
-     jButton28.setBackground(new Color (204,204,204));
-     jButton29.setBackground(new Color (204,204,204));
-    }//GEN-LAST:event_jButton27MouseClicked
-
-    private void jButton29ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton29ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jButton29ActionPerformed
-
-    private void jButton28MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton28MouseClicked
-     dp102.setVisible(true);
-     dp101.setVisible(false);
-     dp103.setVisible(false);
-     jButton28.setBackground(Color.RED);
-     jButton27.setBackground(new Color (204,204,204));
-     jButton29.setBackground(new Color (204,204,204));
-    }//GEN-LAST:event_jButton28MouseClicked
-
-    private void jButton29MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton29MouseClicked
-     dp103.setVisible(true);
-     dp102.setVisible(false);
-     dp101.setVisible(false);
-     jButton29.setBackground(Color.RED);
-     jButton28.setBackground(new Color (204,204,204));
-     jButton27.setBackground(new Color (204,204,204));
-    }//GEN-LAST:event_jButton29MouseClicked
 
     private void jButton30MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton30MouseClicked
      maindisplay.setVisible(true);
@@ -3223,6 +3587,195 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         dp41.setVisible(true);    
     }//GEN-LAST:event_b4MouseClicked
 
+    private void jButton14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton14ActionPerformed
+      t41.setText("");
+      t42.setText("");
+      t43.setText("");
+    }//GEN-LAST:event_jButton14ActionPerformed
+
+    private void jButton15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton15ActionPerformed
+        Double numo11,numo12,r41;
+        numo11=Double.parseDouble(t41.getText());
+        numo12=Double.parseDouble(t42.getText());
+        
+        r41= numo11 * numo12;
+        t43.setText(Double.toString(r41));
+    }//GEN-LAST:event_jButton15ActionPerformed
+
+    private void b5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b5ActionPerformed
+        maindisplay.setVisible(false);
+        fig5.setVisible(true);
+        dp51.setVisible(true);
+    }//GEN-LAST:event_b5ActionPerformed
+
+    private void jButton16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton16ActionPerformed
+      t51.setText("");
+      t52.setText("");
+      t53.setText("");
+    }//GEN-LAST:event_jButton16ActionPerformed
+
+    private void jButton18ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton18ActionPerformed
+        Double numo13,numo14,r51;
+        numo13=Double.parseDouble(t51.getText());
+        numo14=Double.parseDouble(t52.getText());
+        
+        r51= 0.333334 * numo13 * numo14;
+        t53.setText(Double.toString(r51));
+    }//GEN-LAST:event_jButton18ActionPerformed
+
+    private void jButton19ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton19ActionPerformed
+      t61.setText("");
+      t62.setText("");
+      t63.setText("");
+    }//GEN-LAST:event_jButton19ActionPerformed
+
+    private void jButton69ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton69ActionPerformed
+        Double numo15,numo16,r61;
+        numo15=Double.parseDouble(t61.getText());
+        numo16=Double.parseDouble(t62.getText());
+        
+        r61= 0.5 * numo15 * numo16;
+        t63.setText(Double.toString(r61));
+    }//GEN-LAST:event_jButton69ActionPerformed
+
+    private void b6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b6ActionPerformed
+        maindisplay.setVisible(false);
+        fig6.setVisible(true);
+        dp61.setVisible(true);
+        jButton21.setBackground(Color.RED);
+        jButton22.setBackground(new Color (204,204,204));
+    }//GEN-LAST:event_b6ActionPerformed
+
+    private void jButton70ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton70ActionPerformed
+      t64.setText("");
+      t65.setText("");
+      t66.setText("");
+    }//GEN-LAST:event_jButton70ActionPerformed
+
+    private void jButton71ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton71ActionPerformed
+    Double numo17,numo18,r62;
+    
+    numo17=Double.parseDouble(t64.getText());
+    numo18=Double.parseDouble(t65.getText());
+    
+      double sn1 = Math.toRadians(numo18);
+       numo18 = (Math.sin(sn1));
+      r62= (numo17 * numo17)* numo18;
+      t66.setText(Double.toString(r62));
+    }//GEN-LAST:event_jButton71ActionPerformed
+
+    private void jButton72ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton72ActionPerformed
+      t71.setText("");
+      t72.setText("");
+      t73.setText("");
+      t74.setText("");
+    }//GEN-LAST:event_jButton72ActionPerformed
+
+    private void jButton73ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton73ActionPerformed
+    Double numo19,numo20,numo21,r71,r711;
+        numo19=Double.parseDouble(t71.getText());
+        numo20=Double.parseDouble(t72.getText());
+        numo21=Double.parseDouble(t73.getText());
+        
+        r711 = (numo19 + numo20) * 0.5;
+        r71 = r711* numo21;
+        t74.setText(Double.toString(r71));
+    }//GEN-LAST:event_jButton73ActionPerformed
+
+    private void b7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b7ActionPerformed
+        maindisplay.setVisible(false);
+        fig7.setVisible(true);
+        dp71.setVisible(true);
+    }//GEN-LAST:event_b7ActionPerformed
+
+    private void b8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b8ActionPerformed
+        maindisplay.setVisible(false);
+        fig8.setVisible(true);
+        dp81.setVisible(true);
+    }//GEN-LAST:event_b8ActionPerformed
+
+    private void jButton74ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton74ActionPerformed
+      t81.setText("");
+      t82.setText("");
+      t83.setText("");
+      t84.setText("");
+      t85.setText("");
+    }//GEN-LAST:event_jButton74ActionPerformed
+
+    private void jButton75ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton75ActionPerformed
+    Double numo22,numo23,numo24,numo25,r81,r8111,r811;
+        numo22=Double.parseDouble(t81.getText());
+        numo23=Double.parseDouble(t82.getText());
+        numo24=Double.parseDouble(t83.getText());
+        numo25=Double.parseDouble(t84.getText());
+        
+        r811 = (numo22 + numo23 + numo24 +numo25)*0.5;
+        r8111 = (numo22 - r811)*(numo23 - r811)*(numo24 - r811)*(numo25 - r811);
+        r81 = Math.sqrt(r8111);
+        t85.setText(Double.toString(r81));
+    }//GEN-LAST:event_jButton75ActionPerformed
+
+    private void b9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b9ActionPerformed
+        maindisplay.setVisible(false);
+        fig9.setVisible(true);
+        dp91.setVisible(true);
+    }//GEN-LAST:event_b9ActionPerformed
+
+    private void jButton77ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton77ActionPerformed
+    Double numo26,numo27,numo28,numo29,r91;
+        numo26=Double.parseDouble(t91.getText());
+        numo27=Double.parseDouble(t92.getText());
+        numo28=Double.parseDouble(t93.getText());
+        numo29=Double.parseDouble(t98.getText());
+        r91= (numo26 *  numo28) + (numo27 * numo29);
+        t94.setText(Double.toString(r91));
+        
+    }//GEN-LAST:event_jButton77ActionPerformed
+
+    private void jButton76ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton76ActionPerformed
+      t91.setText("");
+      t92.setText("");
+      t93.setText("");
+      t94.setText("");
+    }//GEN-LAST:event_jButton76ActionPerformed
+
+    private void jButton78ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton78ActionPerformed
+      t95.setText("");
+      t96.setText("");
+      t97.setText("");
+    }//GEN-LAST:event_jButton78ActionPerformed
+
+    private void jButton79ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton79ActionPerformed
+    Double numo30,numo31,r92;
+        numo30=Double.parseDouble(t95.getText());
+        numo31=Double.parseDouble(t96.getText());
+        r92= numo30 * numo31;
+        t97.setText(Double.toString(r92));
+    }//GEN-LAST:event_jButton79ActionPerformed
+
+    private void b10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b10ActionPerformed
+        maindisplay.setVisible(false);
+        fig10.setVisible(true);
+        dp101.setVisible(true);
+    }//GEN-LAST:event_b10ActionPerformed
+
+    private void jButton27ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton27ActionPerformed
+      t101.setText("");
+      t102.setText("");
+      t103.setText("");
+      t104.setText("");
+    }//GEN-LAST:event_jButton27ActionPerformed
+
+    private void jButton28ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton28ActionPerformed
+    Double numo32,numo33,numo34,r101;
+        numo32=Double.parseDouble(t101.getText());
+        numo33=Double.parseDouble(t102.getText());
+        numo34=Double.parseDouble(t103.getText());
+        
+        r101= 1.333333333 * Math.toRadians(180) * numo32 * numo33 * numo34;
+        t104.setText(Double.toString(r101));
+    }//GEN-LAST:event_jButton28ActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -3281,8 +3834,6 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JButton b8;
     private javax.swing.JButton b9;
     private javax.swing.JPanel dp101;
-    private javax.swing.JPanel dp102;
-    private javax.swing.JPanel dp103;
     private javax.swing.JPanel dp11;
     private javax.swing.JPanel dp111;
     private javax.swing.JPanel dp112;
@@ -3310,7 +3861,6 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JPanel dp33;
     private javax.swing.JPanel dp41;
     private javax.swing.JPanel dp51;
-    private javax.swing.JPanel dp52;
     private javax.swing.JPanel dp61;
     private javax.swing.JPanel dp62;
     private javax.swing.JPanel dp71;
@@ -3341,6 +3891,9 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JButton jButton11;
     private javax.swing.JButton jButton12;
     private javax.swing.JButton jButton13;
+    private javax.swing.JButton jButton14;
+    private javax.swing.JButton jButton15;
+    private javax.swing.JButton jButton16;
     private javax.swing.JButton jButton17;
     private javax.swing.JButton jButton18;
     private javax.swing.JButton jButton19;
@@ -3354,7 +3907,6 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JButton jButton26;
     private javax.swing.JButton jButton27;
     private javax.swing.JButton jButton28;
-    private javax.swing.JButton jButton29;
     private javax.swing.JButton jButton3;
     private javax.swing.JButton jButton30;
     private javax.swing.JButton jButton31;
@@ -3398,7 +3950,18 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JButton jButton66;
     private javax.swing.JButton jButton67;
     private javax.swing.JButton jButton68;
+    private javax.swing.JButton jButton69;
     private javax.swing.JButton jButton7;
+    private javax.swing.JButton jButton70;
+    private javax.swing.JButton jButton71;
+    private javax.swing.JButton jButton72;
+    private javax.swing.JButton jButton73;
+    private javax.swing.JButton jButton74;
+    private javax.swing.JButton jButton75;
+    private javax.swing.JButton jButton76;
+    private javax.swing.JButton jButton77;
+    private javax.swing.JButton jButton78;
+    private javax.swing.JButton jButton79;
     private javax.swing.JButton jButton8;
     private javax.swing.JButton jButton9;
     private javax.swing.JLabel jLabel1;
@@ -3429,12 +3992,77 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel121;
     private javax.swing.JLabel jLabel122;
     private javax.swing.JLabel jLabel123;
+    private javax.swing.JLabel jLabel124;
+    private javax.swing.JLabel jLabel125;
+    private javax.swing.JLabel jLabel126;
+    private javax.swing.JLabel jLabel127;
+    private javax.swing.JLabel jLabel128;
+    private javax.swing.JLabel jLabel129;
     private javax.swing.JLabel jLabel13;
+    private javax.swing.JLabel jLabel130;
+    private javax.swing.JLabel jLabel131;
+    private javax.swing.JLabel jLabel132;
+    private javax.swing.JLabel jLabel133;
+    private javax.swing.JLabel jLabel134;
+    private javax.swing.JLabel jLabel135;
+    private javax.swing.JLabel jLabel136;
+    private javax.swing.JLabel jLabel137;
+    private javax.swing.JLabel jLabel138;
+    private javax.swing.JLabel jLabel139;
     private javax.swing.JLabel jLabel14;
+    private javax.swing.JLabel jLabel140;
+    private javax.swing.JLabel jLabel141;
+    private javax.swing.JLabel jLabel142;
+    private javax.swing.JLabel jLabel143;
+    private javax.swing.JLabel jLabel144;
+    private javax.swing.JLabel jLabel145;
+    private javax.swing.JLabel jLabel146;
+    private javax.swing.JLabel jLabel147;
+    private javax.swing.JLabel jLabel148;
+    private javax.swing.JLabel jLabel149;
     private javax.swing.JLabel jLabel15;
+    private javax.swing.JLabel jLabel150;
+    private javax.swing.JLabel jLabel151;
+    private javax.swing.JLabel jLabel152;
+    private javax.swing.JLabel jLabel153;
+    private javax.swing.JLabel jLabel154;
+    private javax.swing.JLabel jLabel155;
+    private javax.swing.JLabel jLabel156;
+    private javax.swing.JLabel jLabel157;
+    private javax.swing.JLabel jLabel158;
+    private javax.swing.JLabel jLabel159;
     private javax.swing.JLabel jLabel16;
+    private javax.swing.JLabel jLabel160;
+    private javax.swing.JLabel jLabel161;
+    private javax.swing.JLabel jLabel162;
+    private javax.swing.JLabel jLabel163;
+    private javax.swing.JLabel jLabel164;
+    private javax.swing.JLabel jLabel165;
+    private javax.swing.JLabel jLabel166;
+    private javax.swing.JLabel jLabel167;
+    private javax.swing.JLabel jLabel168;
+    private javax.swing.JLabel jLabel169;
     private javax.swing.JLabel jLabel17;
+    private javax.swing.JLabel jLabel170;
+    private javax.swing.JLabel jLabel171;
+    private javax.swing.JLabel jLabel172;
+    private javax.swing.JLabel jLabel173;
+    private javax.swing.JLabel jLabel174;
+    private javax.swing.JLabel jLabel175;
+    private javax.swing.JLabel jLabel176;
+    private javax.swing.JLabel jLabel177;
+    private javax.swing.JLabel jLabel178;
+    private javax.swing.JLabel jLabel179;
     private javax.swing.JLabel jLabel18;
+    private javax.swing.JLabel jLabel180;
+    private javax.swing.JLabel jLabel181;
+    private javax.swing.JLabel jLabel182;
+    private javax.swing.JLabel jLabel183;
+    private javax.swing.JLabel jLabel184;
+    private javax.swing.JLabel jLabel185;
+    private javax.swing.JLabel jLabel186;
+    private javax.swing.JLabel jLabel187;
+    private javax.swing.JLabel jLabel188;
     private javax.swing.JLabel jLabel19;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel20;
@@ -3450,6 +4078,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel30;
     private javax.swing.JLabel jLabel31;
+    private javax.swing.JLabel jLabel32;
     private javax.swing.JLabel jLabel33;
     private javax.swing.JLabel jLabel34;
     private javax.swing.JLabel jLabel35;
@@ -3545,6 +4174,10 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel8;
     private javax.swing.JPanel jPanel9;
     private javax.swing.JPanel maindisplay;
+    private javax.swing.JTextField t101;
+    private javax.swing.JTextField t102;
+    private javax.swing.JTextField t103;
+    private javax.swing.JTextField t104;
     private javax.swing.JTextField t11;
     private javax.swing.JTextField t110;
     private javax.swing.JTextField t111;
@@ -3576,5 +4209,34 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JTextField t34;
     private javax.swing.JTextField t35;
     private javax.swing.JTextField t36;
+    private javax.swing.JTextField t41;
+    private javax.swing.JTextField t42;
+    private javax.swing.JTextField t43;
+    private javax.swing.JTextField t51;
+    private javax.swing.JTextField t52;
+    private javax.swing.JTextField t53;
+    private javax.swing.JTextField t61;
+    private javax.swing.JTextField t62;
+    private javax.swing.JTextField t63;
+    private javax.swing.JTextField t64;
+    private javax.swing.JTextField t65;
+    private javax.swing.JTextField t66;
+    private javax.swing.JTextField t71;
+    private javax.swing.JTextField t72;
+    private javax.swing.JTextField t73;
+    private javax.swing.JTextField t74;
+    private javax.swing.JTextField t81;
+    private javax.swing.JTextField t82;
+    private javax.swing.JTextField t83;
+    private javax.swing.JTextField t84;
+    private javax.swing.JTextField t85;
+    private javax.swing.JTextField t91;
+    private javax.swing.JTextField t92;
+    private javax.swing.JTextField t93;
+    private javax.swing.JTextField t94;
+    private javax.swing.JTextField t95;
+    private javax.swing.JTextField t96;
+    private javax.swing.JTextField t97;
+    private javax.swing.JTextField t98;
     // End of variables declaration//GEN-END:variables
 }

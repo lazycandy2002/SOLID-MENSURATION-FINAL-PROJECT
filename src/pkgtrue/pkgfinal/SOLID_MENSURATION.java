@@ -30,6 +30,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private void initComponents() {
 
         jLabel164 = new javax.swing.JLabel();
+        jProgressBar1 = new javax.swing.JProgressBar();
         maindisplay = new javax.swing.JPanel();
         jPanel1 = new javax.swing.JPanel();
         jLabel2 = new javax.swing.JLabel();
@@ -291,6 +292,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         jButton71 = new javax.swing.JButton();
         jLabel148 = new javax.swing.JLabel();
         jLabel149 = new javax.swing.JLabel();
+        jLabel263 = new javax.swing.JLabel();
         fig7 = new javax.swing.JPanel();
         jPanel8 = new javax.swing.JPanel();
         jLabel39 = new javax.swing.JLabel();
@@ -434,12 +436,36 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         jLabel50 = new javax.swing.JLabel();
         jButton35 = new javax.swing.JButton();
         dp131 = new javax.swing.JPanel();
+        jLabel209 = new javax.swing.JLabel();
+        jLabel208 = new javax.swing.JLabel();
+        jLabel210 = new javax.swing.JLabel();
+        jLabel207 = new javax.swing.JLabel();
+        t1301 = new javax.swing.JTextField();
+        t1302 = new javax.swing.JTextField();
+        jLabel211 = new javax.swing.JLabel();
+        jLabel212 = new javax.swing.JLabel();
+        jButton85 = new javax.swing.JButton();
+        jButton86 = new javax.swing.JButton();
+        t1303 = new javax.swing.JTextField();
+        jLabel213 = new javax.swing.JLabel();
         fig14 = new javax.swing.JPanel();
         jPanel15 = new javax.swing.JPanel();
         jLabel51 = new javax.swing.JLabel();
         jLabel52 = new javax.swing.JLabel();
         jButton36 = new javax.swing.JButton();
         dp141 = new javax.swing.JPanel();
+        jLabel214 = new javax.swing.JLabel();
+        jLabel215 = new javax.swing.JLabel();
+        jLabel217 = new javax.swing.JLabel();
+        jLabel216 = new javax.swing.JLabel();
+        t1401 = new javax.swing.JTextField();
+        t1402 = new javax.swing.JTextField();
+        jLabel218 = new javax.swing.JLabel();
+        jLabel219 = new javax.swing.JLabel();
+        jButton87 = new javax.swing.JButton();
+        jButton88 = new javax.swing.JButton();
+        t1403 = new javax.swing.JTextField();
+        jLabel220 = new javax.swing.JLabel();
         fig15 = new javax.swing.JPanel();
         jPanel16 = new javax.swing.JPanel();
         jLabel53 = new javax.swing.JLabel();
@@ -448,44 +474,115 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         jButton38 = new javax.swing.JButton();
         jButton39 = new javax.swing.JButton();
         dp151 = new javax.swing.JPanel();
+        jLabel227 = new javax.swing.JLabel();
+        jLabel221 = new javax.swing.JLabel();
+        jLabel222 = new javax.swing.JLabel();
+        jLabel224 = new javax.swing.JLabel();
+        jLabel223 = new javax.swing.JLabel();
+        t1501 = new javax.swing.JTextField();
+        t1502 = new javax.swing.JTextField();
+        jLabel225 = new javax.swing.JLabel();
+        jLabel226 = new javax.swing.JLabel();
+        t1503 = new javax.swing.JTextField();
+        jButton89 = new javax.swing.JButton();
+        jButton90 = new javax.swing.JButton();
         dp152 = new javax.swing.JPanel();
+        jLabel228 = new javax.swing.JLabel();
+        jLabel231 = new javax.swing.JLabel();
+        jLabel230 = new javax.swing.JLabel();
+        jLabel229 = new javax.swing.JLabel();
+        t1504 = new javax.swing.JTextField();
+        t1505 = new javax.swing.JTextField();
+        jButton91 = new javax.swing.JButton();
+        jButton92 = new javax.swing.JButton();
+        t1506 = new javax.swing.JTextField();
+        jLabel232 = new javax.swing.JLabel();
+        jLabel233 = new javax.swing.JLabel();
         fig16 = new javax.swing.JPanel();
         jPanel17 = new javax.swing.JPanel();
         jLabel55 = new javax.swing.JLabel();
         jLabel56 = new javax.swing.JLabel();
         jButton40 = new javax.swing.JButton();
         dp161 = new javax.swing.JPanel();
+        jLabel234 = new javax.swing.JLabel();
+        jLabel237 = new javax.swing.JLabel();
+        t1601 = new javax.swing.JTextField();
+        t1602 = new javax.swing.JTextField();
+        t1603 = new javax.swing.JTextField();
+        t1604 = new javax.swing.JTextField();
+        jButton93 = new javax.swing.JButton();
+        jButton94 = new javax.swing.JButton();
+        jLabel238 = new javax.swing.JLabel();
+        jLabel239 = new javax.swing.JLabel();
+        jLabel240 = new javax.swing.JLabel();
+        jLabel235 = new javax.swing.JLabel();
+        jLabel241 = new javax.swing.JLabel();
+        jLabel236 = new javax.swing.JLabel();
         fig17 = new javax.swing.JPanel();
         jPanel19 = new javax.swing.JPanel();
         jLabel57 = new javax.swing.JLabel();
         jLabel58 = new javax.swing.JLabel();
         jButton41 = new javax.swing.JButton();
         dp171 = new javax.swing.JPanel();
+        jButton95 = new javax.swing.JButton();
+        jLabel242 = new javax.swing.JLabel();
+        jLabel244 = new javax.swing.JLabel();
+        jLabel243 = new javax.swing.JLabel();
+        jLabel245 = new javax.swing.JLabel();
+        t1701 = new javax.swing.JTextField();
+        jButton96 = new javax.swing.JButton();
+        t1702 = new javax.swing.JTextField();
+        jLabel246 = new javax.swing.JLabel();
         fig18 = new javax.swing.JPanel();
         jPanel18 = new javax.swing.JPanel();
         jLabel59 = new javax.swing.JLabel();
         jLabel60 = new javax.swing.JLabel();
         jButton42 = new javax.swing.JButton();
         dp181 = new javax.swing.JPanel();
+        jLabel248 = new javax.swing.JLabel();
+        jLabel249 = new javax.swing.JLabel();
+        jLabel247 = new javax.swing.JLabel();
+        t1801 = new javax.swing.JTextField();
+        t1802 = new javax.swing.JTextField();
+        t1803 = new javax.swing.JTextField();
+        jButton97 = new javax.swing.JButton();
+        jButton98 = new javax.swing.JButton();
+        jLabel250 = new javax.swing.JLabel();
+        jLabel251 = new javax.swing.JLabel();
+        Volume = new javax.swing.JLabel();
         fig19 = new javax.swing.JPanel();
         jPanel20 = new javax.swing.JPanel();
         jLabel61 = new javax.swing.JLabel();
         jLabel62 = new javax.swing.JLabel();
         jButton43 = new javax.swing.JButton();
         dp191 = new javax.swing.JPanel();
+        jLabel252 = new javax.swing.JLabel();
+        jLabel255 = new javax.swing.JLabel();
+        jLabel253 = new javax.swing.JLabel();
+        jLabel254 = new javax.swing.JLabel();
+        jLabel256 = new javax.swing.JLabel();
+        jLabel257 = new javax.swing.JLabel();
+        t1901 = new javax.swing.JTextField();
+        t1902 = new javax.swing.JTextField();
+        jButton99 = new javax.swing.JButton();
+        jButton100 = new javax.swing.JButton();
+        t1903 = new javax.swing.JTextField();
+        jLabel258 = new javax.swing.JLabel();
         fig20 = new javax.swing.JPanel();
         jPanel21 = new javax.swing.JPanel();
         jLabel63 = new javax.swing.JLabel();
-        jLabel64 = new javax.swing.JLabel();
-        jButton44 = new javax.swing.JButton();
-        jButton45 = new javax.swing.JButton();
-        jButton46 = new javax.swing.JButton();
-        jButton47 = new javax.swing.JButton();
         jButton48 = new javax.swing.JButton();
         dp201 = new javax.swing.JPanel();
-        dp202 = new javax.swing.JPanel();
-        dp203 = new javax.swing.JPanel();
-        dp204 = new javax.swing.JPanel();
+        jLabel64 = new javax.swing.JLabel();
+        jLabel259 = new javax.swing.JLabel();
+        t2001 = new javax.swing.JTextField();
+        jLabel260 = new javax.swing.JLabel();
+        jButton44 = new javax.swing.JButton();
+        jButton45 = new javax.swing.JButton();
+        t2002 = new javax.swing.JTextField();
+        t2003 = new javax.swing.JTextField();
+        jLabel261 = new javax.swing.JLabel();
+        jLabel262 = new javax.swing.JLabel();
 
         jLabel164.setText("jLabel164");
 
@@ -506,7 +603,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         });
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        maindisplay.setBackground(new java.awt.Color(102, 102, 255));
+        maindisplay.setBackground(new java.awt.Color(108, 29, 164));
         maindisplay.setMaximumSize(new java.awt.Dimension(910, 510));
         maindisplay.setMinimumSize(new java.awt.Dimension(910, 510));
         maindisplay.setPreferredSize(new java.awt.Dimension(910, 510));
@@ -520,7 +617,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         });
         maindisplay.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jPanel1.setBackground(new java.awt.Color(255, 0, 102));
+        jPanel1.setBackground(new java.awt.Color(102, 102, 255));
         jPanel1.addComponentListener(new java.awt.event.ComponentAdapter() {
             public void componentShown(java.awt.event.ComponentEvent evt) {
                 jPanel1ComponentShown(evt);
@@ -658,36 +755,76 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         });
         maindisplay.add(b12, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 260, 180, 30));
 
-        b13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/sector-of-a-circle-ICON.jpg"))); // NOI18N
+        b13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/segment-of-a-circle.jpg"))); // NOI18N
         b13.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b13.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b13ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b13, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 310, 180, 30));
 
-        b14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/segment-of-a-circle.jpg"))); // NOI18N
+        b14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/parabolic-segment-icon.jpg"))); // NOI18N
         b14.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b14.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b14ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b14, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 360, 180, 30));
 
-        b15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/parabolic-segment-icon.jpg"))); // NOI18N
+        b15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/ellipse.jpg"))); // NOI18N
         b15.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b15.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b15ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b15, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 410, 180, 30));
 
-        b16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/ellipse.jpg"))); // NOI18N
+        b16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cicumcirlce-icom.jpg"))); // NOI18N
         b16.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b16ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b16, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 210, 180, 30));
 
-        b17.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cicumcirlce-icom.jpg"))); // NOI18N
+        b17.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/sphereicn.jpg"))); // NOI18N
         b17.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b17.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b17ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b17, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 260, 180, 30));
 
-        b18.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/incircle.jpg"))); // NOI18N
+        b18.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cones.jpg"))); // NOI18N
         b18.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b18.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b18ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b18, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 310, 180, 30));
 
-        b19.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/excirlce.jpg"))); // NOI18N
+        b19.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/PARABOLOID-OF-REVOLUTION.jpg"))); // NOI18N
         b19.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b19.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b19ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b19, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 360, 180, 30));
 
-        b20.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/circum-quad.jpg"))); // NOI18N
+        b20.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cube.jpg"))); // NOI18N
         b20.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        b20.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                b20ActionPerformed(evt);
+            }
+        });
         maindisplay.add(b20, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 410, 180, 30));
 
         getContentPane().add(maindisplay, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
@@ -1786,6 +1923,8 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         dp61.add(jLabel140, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
         dp61.add(t61, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 260, 170, -1));
         dp61.add(t62, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 310, 170, -1));
+
+        t63.setEditable(false);
         dp61.add(t63, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 400, 170, -1));
 
         jButton19.setText("CLEAR");
@@ -1860,6 +1999,9 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
 
         jLabel149.setText("Angle a :");
         dp62.add(jLabel149, new org.netbeans.lib.awtextra.AbsoluteConstraints(370, 300, -1, -1));
+
+        jLabel263.setText("AREA :");
+        dp62.add(jLabel263, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 380, -1, 20));
 
         fig6.add(dp62, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
 
@@ -2551,6 +2693,8 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
             }
         });
         dp121.add(jButton84, new org.netbeans.lib.awtextra.AbsoluteConstraints(580, 200, -1, -1));
+
+        t1202.setEditable(false);
         dp121.add(t1202, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 270, 170, -1));
 
         jLabel205.setText("AREA :");
@@ -2609,22 +2753,60 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
                 .addGap(60, 60, 60))
         );
 
-        fig13.add(jPanel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig13.add(jPanel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 210, 480));
 
-        javax.swing.GroupLayout dp131Layout = new javax.swing.GroupLayout(dp131);
-        dp131.setLayout(dp131Layout);
-        dp131Layout.setHorizontalGroup(
-            dp131Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp131Layout.setVerticalGroup(
-            dp131Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp131.setBackground(new java.awt.Color(255, 255, 255));
+        dp131.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        fig13.add(dp131, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jLabel209.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
+        jLabel209.setText("Segments of a Circle");
+        dp131.add(jLabel209, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, -1));
 
-        getContentPane().add(fig13, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jLabel208.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel208.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/segment-of-a-circle2.jpg"))); // NOI18N
+        dp131.add(jLabel208, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 70, 250, 180));
+
+        jLabel210.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel210.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/segment-of-a-circle3.jpg"))); // NOI18N
+        dp131.add(jLabel210, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 250, -1, 200));
+
+        jLabel207.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel207.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/segment-of-a-circle1.jpg"))); // NOI18N
+        dp131.add(jLabel207, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 180, 340, -1));
+        dp131.add(t1301, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 20, 170, -1));
+        dp131.add(t1302, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 50, 170, -1));
+
+        jLabel211.setText("Radius :");
+        dp131.add(jLabel211, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 20, -1, 20));
+
+        jLabel212.setText("Central Angle:");
+        dp131.add(jLabel212, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 50, -1, 20));
+
+        jButton85.setText("CLEAR");
+        jButton85.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton85ActionPerformed(evt);
+            }
+        });
+        dp131.add(jButton85, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 80, -1, -1));
+
+        jButton86.setText("CALCULATE");
+        jButton86.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton86ActionPerformed(evt);
+            }
+        });
+        dp131.add(jButton86, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 80, -1, -1));
+
+        t1303.setEditable(false);
+        dp131.add(t1303, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 120, 170, -1));
+
+        jLabel213.setText("AREA:");
+        dp131.add(jLabel213, new org.netbeans.lib.awtextra.AbsoluteConstraints(390, 120, -1, 20));
+
+        fig13.add(dp131, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
+
+        getContentPane().add(fig13, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig14.setMaximumSize(new java.awt.Dimension(920, 530));
         fig14.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -2672,22 +2854,60 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
                 .addGap(60, 60, 60))
         );
 
-        fig14.add(jPanel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig14.add(jPanel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 220, 480));
 
-        javax.swing.GroupLayout dp141Layout = new javax.swing.GroupLayout(dp141);
-        dp141.setLayout(dp141Layout);
-        dp141Layout.setHorizontalGroup(
-            dp141Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp141Layout.setVerticalGroup(
-            dp141Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp141.setBackground(new java.awt.Color(255, 255, 255));
+        dp141.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        fig14.add(dp141, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jLabel214.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
+        jLabel214.setText("PARABOLIC SEGMENT");
+        dp141.add(jLabel214, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, -1));
 
-        getContentPane().add(fig14, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jLabel215.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel215.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/parabolic-segment1.jpg"))); // NOI18N
+        dp141.add(jLabel215, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, 200, 290));
+
+        jLabel217.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel217.setText("EXAMPLE:");
+        dp141.add(jLabel217, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 320, -1, -1));
+
+        jLabel216.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel216.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/parabolic-segment2.jpg"))); // NOI18N
+        dp141.add(jLabel216, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 170, 200, -1));
+        dp141.add(t1401, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 140, 160, -1));
+        dp141.add(t1402, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 170, 160, -1));
+
+        jLabel218.setText("h :");
+        dp141.add(jLabel218, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 170, -1, 20));
+
+        jLabel219.setText("b :");
+        dp141.add(jLabel219, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 140, -1, 20));
+
+        jButton87.setText("CLEAR");
+        jButton87.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton87ActionPerformed(evt);
+            }
+        });
+        dp141.add(jButton87, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 200, -1, -1));
+
+        jButton88.setText("CALCULATE");
+        jButton88.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton88ActionPerformed(evt);
+            }
+        });
+        dp141.add(jButton88, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 200, -1, -1));
+
+        t1403.setEditable(false);
+        dp141.add(t1403, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 250, 160, -1));
+
+        jLabel220.setText("AREA :");
+        dp141.add(jLabel220, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 250, -1, 20));
+
+        fig14.add(dp141, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 0, 690, 480));
+
+        getContentPane().add(fig14, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig15.setMaximumSize(new java.awt.Dimension(920, 530));
         fig15.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -2756,33 +2976,106 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
                 .addGap(58, 58, 58))
         );
 
-        fig15.add(jPanel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig15.add(jPanel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 210, 480));
 
-        javax.swing.GroupLayout dp152Layout = new javax.swing.GroupLayout(dp152);
-        dp152.setLayout(dp152Layout);
-        dp152Layout.setHorizontalGroup(
-            dp152Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp152Layout.setVerticalGroup(
-            dp152Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp151.setBackground(new java.awt.Color(255, 255, 255));
+        dp151.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        javax.swing.GroupLayout dp151Layout = new javax.swing.GroupLayout(dp151);
-        dp151.setLayout(dp151Layout);
-        dp151Layout.setHorizontalGroup(
-            dp151Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp152, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
-        dp151Layout.setVerticalGroup(
-            dp151Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp152, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
+        jLabel227.setText("AREA :");
+        dp151.add(jLabel227, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 280, -1, 20));
 
-        fig15.add(dp151, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jLabel221.setFont(new java.awt.Font("Tahoma", 0, 48)); // NOI18N
+        jLabel221.setText("ELLIPSE");
+        dp151.add(jLabel221, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
 
-        getContentPane().add(fig15, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jLabel222.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel222.setText("EXAMPLE :");
+        dp151.add(jLabel222, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 310, -1, -1));
+
+        jLabel224.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel224.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/ellipse1jpg.jpg"))); // NOI18N
+        dp151.add(jLabel224, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 270, 330, 190));
+
+        jLabel223.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/ellipse2jpg.jpg"))); // NOI18N
+        dp151.add(jLabel223, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 30, -1, -1));
+        dp151.add(t1501, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 180, 170, -1));
+        dp151.add(t1502, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 210, 170, -1));
+
+        jLabel225.setText("a :");
+        dp151.add(jLabel225, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 180, -1, 20));
+
+        jLabel226.setText("b :");
+        dp151.add(jLabel226, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 210, -1, 20));
+
+        t1503.setEditable(false);
+        dp151.add(t1503, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 280, 170, -1));
+
+        jButton89.setText("CLEAR");
+        jButton89.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton89ActionPerformed(evt);
+            }
+        });
+        dp151.add(jButton89, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 240, -1, -1));
+
+        jButton90.setText("CALCULATE");
+        jButton90.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton90ActionPerformed(evt);
+            }
+        });
+        dp151.add(jButton90, new org.netbeans.lib.awtextra.AbsoluteConstraints(570, 240, -1, -1));
+
+        fig15.add(dp151, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
+
+        dp152.setBackground(new java.awt.Color(255, 255, 255));
+        dp152.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel228.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
+        jLabel228.setText("ELLIPSE : PERIMETER");
+        dp152.add(jLabel228, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, -1));
+
+        jLabel231.setText("PERIMETER :");
+        dp152.add(jLabel231, new org.netbeans.lib.awtextra.AbsoluteConstraints(400, 340, -1, 20));
+
+        jLabel230.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel230.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/ellipse4jpg.jpg"))); // NOI18N
+        dp152.add(jLabel230, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 300, -1, 170));
+
+        jLabel229.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel229.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/ellipse3jpg.jpg"))); // NOI18N
+        dp152.add(jLabel229, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 40, 250, 290));
+        dp152.add(t1504, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 210, 170, -1));
+        dp152.add(t1505, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 250, 170, -1));
+
+        jButton91.setText("CLEAR");
+        jButton91.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton91ActionPerformed(evt);
+            }
+        });
+        dp152.add(jButton91, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 280, -1, -1));
+
+        jButton92.setText("CALCULATE");
+        jButton92.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton92ActionPerformed(evt);
+            }
+        });
+        dp152.add(jButton92, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 280, -1, -1));
+
+        t1506.setEditable(false);
+        dp152.add(t1506, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 340, 170, -1));
+
+        jLabel232.setText("a :");
+        dp152.add(jLabel232, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 210, -1, 20));
+
+        jLabel233.setText("b :");
+        dp152.add(jLabel233, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 250, -1, 20));
+
+        fig15.add(dp152, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
+
+        getContentPane().add(fig15, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig16.setMaximumSize(new java.awt.Dimension(920, 530));
         fig16.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -2835,29 +3128,71 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
                 .addGap(62, 62, 62))
         );
 
-        fig16.add(jPanel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig16.add(jPanel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 210, 480));
 
-        javax.swing.GroupLayout dp161Layout = new javax.swing.GroupLayout(dp161);
-        dp161.setLayout(dp161Layout);
-        dp161Layout.setHorizontalGroup(
-            dp161Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp161Layout.setVerticalGroup(
-            dp161Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp161.setBackground(new java.awt.Color(255, 255, 255));
+        dp161.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        fig16.add(dp161, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jLabel234.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
+        jLabel234.setText("CICUMCIRCLE");
+        dp161.add(jLabel234, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, -1, -1));
 
-        getContentPane().add(fig16, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jLabel237.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel237.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cicumcirlce-icom1.jpg"))); // NOI18N
+        dp161.add(jLabel237, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 80, 230, 280));
+        dp161.add(t1601, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 300, 170, -1));
+        dp161.add(t1602, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 330, 170, -1));
+        dp161.add(t1603, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 360, 170, -1));
+
+        t1604.setEditable(false);
+        dp161.add(t1604, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 430, 170, -1));
+
+        jButton93.setText("CLEAR");
+        jButton93.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton93ActionPerformed(evt);
+            }
+        });
+        dp161.add(jButton93, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 390, -1, -1));
+
+        jButton94.setText("CALCULATE");
+        jButton94.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton94ActionPerformed(evt);
+            }
+        });
+        dp161.add(jButton94, new org.netbeans.lib.awtextra.AbsoluteConstraints(400, 390, -1, -1));
+
+        jLabel238.setText("a :");
+        dp161.add(jLabel238, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 300, -1, 20));
+
+        jLabel239.setText("b :");
+        dp161.add(jLabel239, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 330, -1, 20));
+
+        jLabel240.setText("c :");
+        dp161.add(jLabel240, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 360, -1, 20));
+
+        jLabel235.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel235.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cicumcirlce-icom3.jpg"))); // NOI18N
+        dp161.add(jLabel235, new org.netbeans.lib.awtextra.AbsoluteConstraints(270, 50, 430, 260));
+
+        jLabel241.setText("RADIUS :");
+        dp161.add(jLabel241, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 430, -1, 20));
+
+        jLabel236.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        jLabel236.setText("SOLVE FOR RADIUS");
+        dp161.add(jLabel236, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 60, -1, -1));
+
+        fig16.add(dp161, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
+
+        getContentPane().add(fig16, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig17.setMaximumSize(new java.awt.Dimension(920, 530));
         fig17.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jPanel19.setBackground(new java.awt.Color(102, 102, 255));
 
-        jLabel57.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/incircle.jpg"))); // NOI18N
+        jLabel57.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/sphereicn.jpg"))); // NOI18N
 
         jLabel58.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel58.setForeground(new java.awt.Color(255, 255, 255));
@@ -2898,33 +3233,63 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
                 .addGap(54, 54, 54))
         );
 
-        fig17.add(jPanel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig17.add(jPanel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 210, 480));
 
-        javax.swing.GroupLayout dp171Layout = new javax.swing.GroupLayout(dp171);
-        dp171.setLayout(dp171Layout);
-        dp171Layout.setHorizontalGroup(
-            dp171Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp171Layout.setVerticalGroup(
-            dp171Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp171.setBackground(new java.awt.Color(255, 255, 255));
+        dp171.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        fig17.add(dp171, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jButton95.setText("CLEAR");
+        jButton95.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton95ActionPerformed(evt);
+            }
+        });
+        dp171.add(jButton95, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 220, 70, -1));
 
-        getContentPane().add(fig17, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jLabel242.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
+        jLabel242.setText("SPHERE: SOLVE FOR VOLUME");
+        dp171.add(jLabel242, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 30, -1, -1));
+
+        jLabel244.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel244.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/sphere.jpg"))); // NOI18N
+        dp171.add(jLabel244, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 260, 380, 220));
+
+        jLabel243.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel243.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/sphere2.jpg"))); // NOI18N
+        dp171.add(jLabel243, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 10, 370, 280));
+
+        jLabel245.setText("r :");
+        dp171.add(jLabel245, new org.netbeans.lib.awtextra.AbsoluteConstraints(440, 190, 20, 20));
+        dp171.add(t1701, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 190, 170, -1));
+
+        jButton96.setText("CALCULATE");
+        jButton96.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton96ActionPerformed(evt);
+            }
+        });
+        dp171.add(jButton96, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 220, 100, -1));
+
+        t1702.setEditable(false);
+        dp171.add(t1702, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 280, 170, -1));
+
+        jLabel246.setText("VOLUME :");
+        dp171.add(jLabel246, new org.netbeans.lib.awtextra.AbsoluteConstraints(400, 280, -1, 20));
+
+        fig17.add(dp171, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
+
+        getContentPane().add(fig17, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig18.setMaximumSize(new java.awt.Dimension(920, 530));
         fig18.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jPanel18.setBackground(new java.awt.Color(102, 102, 255));
 
-        jLabel59.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/excirlce.jpg"))); // NOI18N
+        jLabel59.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cones.jpg"))); // NOI18N
 
         jLabel60.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel60.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel60.setText("SOLVE FOR RADIUS");
+        jLabel60.setText("SOLVE FOR VOLUME");
 
         jButton42.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jButton42.setText("BACK");
@@ -2961,22 +3326,55 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
                 .addGap(71, 71, 71))
         );
 
-        fig18.add(jPanel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig18.add(jPanel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 210, 480));
 
-        javax.swing.GroupLayout dp181Layout = new javax.swing.GroupLayout(dp181);
-        dp181.setLayout(dp181Layout);
-        dp181Layout.setHorizontalGroup(
-            dp181Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp181Layout.setVerticalGroup(
-            dp181Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp181.setBackground(new java.awt.Color(255, 255, 255));
+        dp181.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        fig18.add(dp181, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jLabel248.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
+        jLabel248.setText("CONES:");
+        dp181.add(jLabel248, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
 
-        getContentPane().add(fig18, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jLabel249.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel249.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cones2.jpg"))); // NOI18N
+        dp181.add(jLabel249, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 50, 370, 300));
+
+        jLabel247.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cones1.jpg"))); // NOI18N
+        dp181.add(jLabel247, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 50, 410, 260));
+        dp181.add(t1801, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 330, 160, -1));
+        dp181.add(t1802, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 360, 160, -1));
+
+        t1803.setEditable(false);
+        dp181.add(t1803, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 420, 160, -1));
+
+        jButton97.setText("CLEAR");
+        jButton97.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton97ActionPerformed(evt);
+            }
+        });
+        dp181.add(jButton97, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 390, -1, -1));
+
+        jButton98.setText("CALCULATE");
+        jButton98.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton98ActionPerformed(evt);
+            }
+        });
+        dp181.add(jButton98, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 390, -1, -1));
+
+        jLabel250.setText("h :");
+        dp181.add(jLabel250, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 330, -1, 20));
+
+        jLabel251.setText("r :");
+        dp181.add(jLabel251, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 360, -1, -1));
+
+        Volume.setText("Volume :");
+        dp181.add(Volume, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 420, -1, 20));
+
+        fig18.add(dp181, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
+
+        getContentPane().add(fig18, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig19.setBackground(new java.awt.Color(255, 255, 255));
         fig19.setMaximumSize(new java.awt.Dimension(920, 530));
@@ -2984,11 +3382,11 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
 
         jPanel20.setBackground(new java.awt.Color(102, 102, 255));
 
-        jLabel61.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/circum-quad.jpg"))); // NOI18N
+        jLabel61.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/PARABOLOID-OF-REVOLUTION.jpg"))); // NOI18N
 
         jLabel62.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel62.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel62.setText("SOLVE FOR RADIUS");
+        jLabel62.setText("SOLVE FOR VOLUME");
 
         jButton43.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jButton43.setText("BACK");
@@ -3025,22 +3423,58 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
                 .addGap(62, 62, 62))
         );
 
-        fig19.add(jPanel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig19.add(jPanel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 210, 480));
 
-        javax.swing.GroupLayout dp191Layout = new javax.swing.GroupLayout(dp191);
-        dp191.setLayout(dp191Layout);
-        dp191Layout.setHorizontalGroup(
-            dp191Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp191Layout.setVerticalGroup(
-            dp191Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp191.setBackground(new java.awt.Color(255, 255, 255));
+        dp191.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        fig19.add(dp191, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jLabel252.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel252.setText("PARABOLOID OF REVOLUTION");
+        dp191.add(jLabel252, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, -1));
 
-        getContentPane().add(fig19, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jLabel255.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/PARABOLOID-OF-REVOLUTION2.jpg"))); // NOI18N
+        dp191.add(jLabel255, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 50, 350, -1));
+
+        jLabel253.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/PARABOLOID-OF-REVOLUTION1.jpg"))); // NOI18N
+        dp191.add(jLabel253, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 80, -1, 210));
+
+        jLabel254.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        jLabel254.setText("SOLVE FOR VOLUME");
+        dp191.add(jLabel254, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 40, -1, -1));
+
+        jLabel256.setText("h :");
+        dp191.add(jLabel256, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 350, -1, 20));
+
+        jLabel257.setText("r :");
+        dp191.add(jLabel257, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 380, -1, 20));
+        dp191.add(t1901, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 350, 160, -1));
+        dp191.add(t1902, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 380, 160, -1));
+
+        jButton99.setText("CLEAR");
+        jButton99.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton99ActionPerformed(evt);
+            }
+        });
+        dp191.add(jButton99, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 410, -1, -1));
+
+        jButton100.setText("CALCULATE");
+        jButton100.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton100ActionPerformed(evt);
+            }
+        });
+        dp191.add(jButton100, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 410, -1, -1));
+
+        t1903.setEditable(false);
+        dp191.add(t1903, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 370, 130, -1));
+
+        jLabel258.setText("VOLUME :");
+        dp191.add(jLabel258, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 370, -1, 20));
+
+        fig19.add(dp191, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
+
+        getContentPane().add(fig19, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         fig20.setBackground(new java.awt.Color(255, 255, 255));
         fig20.setMaximumSize(new java.awt.Dimension(920, 530));
@@ -3048,43 +3482,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
 
         jPanel21.setBackground(new java.awt.Color(102, 102, 255));
 
-        jLabel63.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/regular-polygon.jpg"))); // NOI18N
-
-        jLabel64.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jLabel64.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel64.setText("SOLVE FOR :");
-
-        jButton44.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jButton44.setText("AREA");
-        jButton44.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jButton44MouseClicked(evt);
-            }
-        });
-
-        jButton45.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jButton45.setText("PERIMETER");
-        jButton45.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jButton45MouseClicked(evt);
-            }
-        });
-
-        jButton46.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jButton46.setText("Interior Angle");
-        jButton46.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jButton46MouseClicked(evt);
-            }
-        });
-
-        jButton47.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jButton47.setText("Exterior Angle");
-        jButton47.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jButton47MouseClicked(evt);
-            }
-        });
+        jLabel63.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cube.jpg"))); // NOI18N
 
         jButton48.setBackground(new java.awt.Color(255, 255, 255));
         jButton48.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
@@ -3099,90 +3497,70 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         jPanel21.setLayout(jPanel21Layout);
         jPanel21Layout.setHorizontalGroup(
             jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel21Layout.createSequentialGroup()
-                .addGroup(jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel21Layout.createSequentialGroup()
-                        .addGap(19, 19, 19)
-                        .addComponent(jLabel63))
-                    .addGroup(jPanel21Layout.createSequentialGroup()
-                        .addContainerGap()
-                        .addComponent(jLabel64)))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-            .addComponent(jButton44, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addComponent(jButton45, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addComponent(jButton46, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addComponent(jButton47, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
             .addComponent(jButton48, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addGroup(jPanel21Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jLabel63)
+                .addContainerGap(15, Short.MAX_VALUE))
         );
         jPanel21Layout.setVerticalGroup(
             jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel21Layout.createSequentialGroup()
                 .addGap(83, 83, 83)
                 .addComponent(jLabel63)
-                .addGap(62, 62, 62)
-                .addComponent(jLabel64)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jButton44, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jButton45, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jButton46, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jButton47, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 292, Short.MAX_VALUE)
                 .addComponent(jButton48, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(43, 43, 43))
         );
 
-        fig20.add(jPanel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, 0));
+        fig20.add(jPanel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 210, 480));
 
-        javax.swing.GroupLayout dp204Layout = new javax.swing.GroupLayout(dp204);
-        dp204.setLayout(dp204Layout);
-        dp204Layout.setHorizontalGroup(
-            dp204Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
-        dp204Layout.setVerticalGroup(
-            dp204Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-        );
+        dp201.setBackground(new java.awt.Color(255, 255, 255));
+        dp201.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        javax.swing.GroupLayout dp203Layout = new javax.swing.GroupLayout(dp203);
-        dp203.setLayout(dp203Layout);
-        dp203Layout.setHorizontalGroup(
-            dp203Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp204, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
-        dp203Layout.setVerticalGroup(
-            dp203Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp204, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
+        jLabel64.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
+        jLabel64.setText("CUBE :");
+        dp201.add(jLabel64, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
 
-        javax.swing.GroupLayout dp202Layout = new javax.swing.GroupLayout(dp202);
-        dp202.setLayout(dp202Layout);
-        dp202Layout.setHorizontalGroup(
-            dp202Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp203, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
-        dp202Layout.setVerticalGroup(
-            dp202Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp203, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
+        jLabel259.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel259.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cube1.jpg"))); // NOI18N
+        dp201.add(jLabel259, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 60, 390, 300));
+        dp201.add(t2001, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 390, 160, -1));
 
-        javax.swing.GroupLayout dp201Layout = new javax.swing.GroupLayout(dp201);
-        dp201.setLayout(dp201Layout);
-        dp201Layout.setHorizontalGroup(
-            dp201Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp202, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
-        dp201Layout.setVerticalGroup(
-            dp201Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(dp202, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
+        jLabel260.setText("side :");
+        dp201.add(jLabel260, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 390, -1, 20));
 
-        fig20.add(dp201, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 0, -1));
+        jButton44.setText("CLEAR");
+        jButton44.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton44ActionPerformed(evt);
+            }
+        });
+        dp201.add(jButton44, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 420, -1, -1));
 
-        getContentPane().add(fig20, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 530));
+        jButton45.setText("CALCULATE");
+        jButton45.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton45ActionPerformed(evt);
+            }
+        });
+        dp201.add(jButton45, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 420, -1, -1));
+
+        t2002.setEditable(false);
+        dp201.add(t2002, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 390, 120, -1));
+
+        t2003.setEditable(false);
+        dp201.add(t2003, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 420, 120, -1));
+
+        jLabel261.setText("VOLUME OF THE CUBE :");
+        dp201.add(jLabel261, new org.netbeans.lib.awtextra.AbsoluteConstraints(360, 390, -1, 20));
+
+        jLabel262.setText("SURFACE OF THE CUBE :");
+        dp201.add(jLabel262, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 420, -1, 20));
+
+        fig20.add(dp201, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 700, 480));
+
+        getContentPane().add(fig20, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 480));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
@@ -3467,52 +3845,8 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     fig19.setVisible(false);
     }//GEN-LAST:event_jButton43MouseClicked
 
-    private void jButton44MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton44MouseClicked
-     dp201.setVisible(true);
-     dp202.setVisible(false);
-     dp203.setVisible(false);
-     dp204.setVisible(false);
-     jButton44.setBackground(Color.RED);
-     jButton45.setBackground(new Color (204,204,204));
-     jButton46.setBackground(new Color (204,204,204));
-     jButton47.setBackground(new Color (204,204,204));
-    }//GEN-LAST:event_jButton44MouseClicked
-
-    private void jButton45MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton45MouseClicked
-     dp202.setVisible(true);
-     dp201.setVisible(false);
-     dp203.setVisible(false);
-     dp204.setVisible(false);
-     jButton45.setBackground(Color.RED);
-     jButton44.setBackground(new Color (204,204,204));
-     jButton46.setBackground(new Color (204,204,204));
-     jButton47.setBackground(new Color (204,204,204));
-    }//GEN-LAST:event_jButton45MouseClicked
-
-    private void jButton46MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton46MouseClicked
-     dp203.setVisible(true);
-     dp202.setVisible(false);
-     dp201.setVisible(false);
-     dp204.setVisible(false);
-     jButton46.setBackground(Color.RED);
-     jButton45.setBackground(new Color (204,204,204));
-     jButton44.setBackground(new Color (204,204,204));
-     jButton47.setBackground(new Color (204,204,204));
-    }//GEN-LAST:event_jButton46MouseClicked
-
-    private void jButton47MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton47MouseClicked
-     dp204.setVisible(true);
-     dp202.setVisible(false);
-     dp203.setVisible(false);
-     dp201.setVisible(false);
-     jButton47.setBackground(Color.RED);
-     jButton45.setBackground(new Color (204,204,204));
-     jButton46.setBackground(new Color (204,204,204));
-     jButton44.setBackground(new Color (204,204,204));
-    }//GEN-LAST:event_jButton47MouseClicked
-
     private void jButton48MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton48MouseClicked
-
+    maindisplay.setVisible(true);
     fig20.setVisible(false);
     }//GEN-LAST:event_jButton48MouseClicked
 
@@ -3922,7 +4256,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
         fig11.setVisible(true);
         dp111.setVisible(true);
         jButton31.setBackground(Color.RED);
-        jButton22.setBackground(new Color (204,204,204));
+        jButton32.setBackground(new Color (204,204,204));
     }//GEN-LAST:event_b11ActionPerformed
 
     private void jButton29ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton29ActionPerformed
@@ -3974,6 +4308,203 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
      t1202.setText(Double.toString(r1201));
     }//GEN-LAST:event_jButton84ActionPerformed
 
+    private void b13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b13ActionPerformed
+        maindisplay.setVisible(false);
+        fig13.setVisible(true);
+        dp131.setVisible(true);
+    }//GEN-LAST:event_b13ActionPerformed
+
+    private void jButton85ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton85ActionPerformed
+      t1301.setText("");
+      t1302.setText("");
+      t1303.setText("");
+    }//GEN-LAST:event_jButton85ActionPerformed
+
+    private void jButton86ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton86ActionPerformed
+        Double numo39,numo40,r1301,r13011,r130111;
+        numo39=Double.parseDouble(t1301.getText());
+        numo40=Double.parseDouble(t1302.getText());
+         r130111 = 0.5 * (numo39 * numo39);
+         r13011 = (3.141592654 * numo40)/180 - 0.866;
+         r1301 = r130111 * r13011;
+      t1303.setText(Double.toString(r1301));
+    }//GEN-LAST:event_jButton86ActionPerformed
+
+    private void jButton87ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton87ActionPerformed
+      t1401.setText("");
+      t1402.setText("");
+      t1403.setText("");
+    }//GEN-LAST:event_jButton87ActionPerformed
+
+    private void jButton88ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton88ActionPerformed
+        Double numo41,numo42,r1401;
+        numo41=Double.parseDouble(t1401.getText());
+        numo42=Double.parseDouble(t1402.getText());
+
+         r1401 =  0.6666666667 * numo41 * numo42;
+      t1403.setText(Double.toString(r1401));
+    }//GEN-LAST:event_jButton88ActionPerformed
+
+    private void b14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b14ActionPerformed
+        maindisplay.setVisible(false);
+        fig14.setVisible(true);
+        dp141.setVisible(true);
+    }//GEN-LAST:event_b14ActionPerformed
+
+    private void b15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b15ActionPerformed
+        maindisplay.setVisible(false);
+        fig15.setVisible(true);
+        dp151.setVisible(true);
+        jButton37.setBackground(Color.RED);
+        jButton38.setBackground(new Color(204, 204, 204));
+    }//GEN-LAST:event_b15ActionPerformed
+
+    private void jButton89ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton89ActionPerformed
+      t1501.setText("");
+      t1502.setText("");
+      t1503.setText("");
+    }//GEN-LAST:event_jButton89ActionPerformed
+
+    private void jButton90ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton90ActionPerformed
+       Double numo43,numo44,r1501;
+        numo43=Double.parseDouble(t1501.getText());
+        numo44=Double.parseDouble(t1502.getText());
+
+         r1501 =  3.141592654 * numo43 * numo44;
+      t1503.setText(Double.toString(r1501));
+    }//GEN-LAST:event_jButton90ActionPerformed
+
+    private void jButton91ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton91ActionPerformed
+      t1504.setText("");
+      t1505.setText("");
+      t1506.setText("");
+    }//GEN-LAST:event_jButton91ActionPerformed
+
+    private void jButton92ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton92ActionPerformed
+       Double numo45,numo46,r1502,r150222,r15022;
+        numo45=Double.parseDouble(t1504.getText());
+        numo46=Double.parseDouble(t1505.getText());
+
+         r150222 = (numo45 * numo45)+(numo46*numo46);
+         r15022 = Math.sqrt(r150222 /2 );
+         r1502 = 2 * 3.14 * r15022;
+      t1506.setText(Double.toString(r1502));
+    }//GEN-LAST:event_jButton92ActionPerformed
+
+    private void b16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b16ActionPerformed
+        maindisplay.setVisible(false);
+        fig16.setVisible(true);
+        dp161.setVisible(true);
+    }//GEN-LAST:event_b16ActionPerformed
+
+    private void jButton93ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton93ActionPerformed
+      t1601.setText("");
+      t1602.setText("");
+      t1603.setText("");
+      t1604.setText("");
+    }//GEN-LAST:event_jButton93ActionPerformed
+
+    private void jButton94ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton94ActionPerformed
+       Double numo47,numo48,numo49,r1601,r16011,r160111,r1601111;
+        numo47=Double.parseDouble(t1601.getText());
+        numo48=Double.parseDouble(t1602.getText());
+        numo49=Double.parseDouble(t1603.getText());
+
+         r160111 = 0.5 * (numo47 + numo48 + numo49);
+         r1601111 = numo47 * numo48 * numo49;
+         r16011 =  4 * Math.sqrt(r160111 * (r160111 - numo47)*(r160111 - numo48)*(r160111 - numo49));
+         r1601 = r1601111 / r16011;
+
+      t1604.setText(Double.toString(r1601));
+    }//GEN-LAST:event_jButton94ActionPerformed
+
+    private void b17ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b17ActionPerformed
+        maindisplay.setVisible(false);
+        fig17.setVisible(true);
+        dp171.setVisible(true);
+    }//GEN-LAST:event_b17ActionPerformed
+
+    private void jButton95ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton95ActionPerformed
+      t1701.setText("");
+      t1702.setText("");
+    }//GEN-LAST:event_jButton95ActionPerformed
+
+    private void jButton96ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton96ActionPerformed
+     Double numo50,r1701,r17011;
+     numo50 = Double.parseDouble(t1701.getText());
+     r17011 = numo50 * numo50 *numo50;  
+     r1701 = 1.333333333 * 3.141592654 * r17011;
+     
+           t1702.setText(Double.toString(r1701));
+    }//GEN-LAST:event_jButton96ActionPerformed
+
+    private void jButton97ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton97ActionPerformed
+      t1801.setText("");
+      t1802.setText("");
+      t1803.setText("");
+    }//GEN-LAST:event_jButton97ActionPerformed
+
+    private void jButton98ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton98ActionPerformed
+     Double numo51,numo52,r1801;
+     numo51 = Double.parseDouble(t1801.getText());
+     numo52 = Double.parseDouble(t1802.getText());
+
+     
+         r1801 = 0.333333333 * 3.142 * (numo52*numo52) * numo51;
+           t1803.setText(Double.toString(r1801));
+    }//GEN-LAST:event_jButton98ActionPerformed
+
+    private void b18ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b18ActionPerformed
+        maindisplay.setVisible(false);
+        fig18.setVisible(true);
+        dp181.setVisible(true);
+    }//GEN-LAST:event_b18ActionPerformed
+
+    private void b19ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b19ActionPerformed
+        maindisplay.setVisible(false);
+        fig19.setVisible(true);
+        dp191.setVisible(true);
+    }//GEN-LAST:event_b19ActionPerformed
+
+    private void jButton99ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton99ActionPerformed
+      t1901.setText("");
+      t1902.setText("");
+      t1903.setText("");
+    }//GEN-LAST:event_jButton99ActionPerformed
+
+    private void jButton100ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton100ActionPerformed
+     Double numo53,numo54,r1901;
+     numo53 = Double.parseDouble(t1901.getText());
+     numo54 = Double.parseDouble(t1902.getText());
+
+     
+         r1901 = 0.5 * 3.142 * (numo54*numo54) * numo53;
+           t1903.setText(Double.toString(r1901));
+    }//GEN-LAST:event_jButton100ActionPerformed
+
+    private void b20ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b20ActionPerformed
+        maindisplay.setVisible(false);
+        fig20.setVisible(true);
+        dp201.setVisible(true);
+    }//GEN-LAST:event_b20ActionPerformed
+
+    private void jButton44ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton44ActionPerformed
+      t2001.setText("");
+      t2002.setText("");
+      t2003.setText("");
+    }//GEN-LAST:event_jButton44ActionPerformed
+
+    private void jButton45ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton45ActionPerformed
+    Double numo55,r2001,r2002;
+     numo55 = Double.parseDouble(t2001.getText());
+
+     
+         r2001 = numo55 * numo55 * numo55;
+         r2002 = 6 * (numo55 * numo55);
+           t2002.setText(Double.toString(r2001));
+           t2003.setText(Double.toString(r2002));
+    }//GEN-LAST:event_jButton45ActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -4011,6 +4542,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JLabel Diagonals;
+    private javax.swing.JLabel Volume;
     private javax.swing.JButton b1;
     private javax.swing.JButton b10;
     private javax.swing.JButton b11;
@@ -4048,9 +4580,6 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JPanel dp181;
     private javax.swing.JPanel dp191;
     private javax.swing.JPanel dp201;
-    private javax.swing.JPanel dp202;
-    private javax.swing.JPanel dp203;
-    private javax.swing.JPanel dp204;
     private javax.swing.JPanel dp21;
     private javax.swing.JPanel dp22;
     private javax.swing.JPanel dp23;
@@ -4086,6 +4615,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JPanel fig9;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton10;
+    private javax.swing.JButton jButton100;
     private javax.swing.JButton jButton11;
     private javax.swing.JButton jButton12;
     private javax.swing.JButton jButton13;
@@ -4124,8 +4654,6 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JButton jButton43;
     private javax.swing.JButton jButton44;
     private javax.swing.JButton jButton45;
-    private javax.swing.JButton jButton46;
-    private javax.swing.JButton jButton47;
     private javax.swing.JButton jButton48;
     private javax.swing.JButton jButton49;
     private javax.swing.JButton jButton5;
@@ -4167,7 +4695,22 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JButton jButton82;
     private javax.swing.JButton jButton83;
     private javax.swing.JButton jButton84;
+    private javax.swing.JButton jButton85;
+    private javax.swing.JButton jButton86;
+    private javax.swing.JButton jButton87;
+    private javax.swing.JButton jButton88;
+    private javax.swing.JButton jButton89;
     private javax.swing.JButton jButton9;
+    private javax.swing.JButton jButton90;
+    private javax.swing.JButton jButton91;
+    private javax.swing.JButton jButton92;
+    private javax.swing.JButton jButton93;
+    private javax.swing.JButton jButton94;
+    private javax.swing.JButton jButton95;
+    private javax.swing.JButton jButton96;
+    private javax.swing.JButton jButton97;
+    private javax.swing.JButton jButton98;
+    private javax.swing.JButton jButton99;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel100;
@@ -4288,12 +4831,69 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel204;
     private javax.swing.JLabel jLabel205;
     private javax.swing.JLabel jLabel206;
+    private javax.swing.JLabel jLabel207;
+    private javax.swing.JLabel jLabel208;
+    private javax.swing.JLabel jLabel209;
     private javax.swing.JLabel jLabel21;
+    private javax.swing.JLabel jLabel210;
+    private javax.swing.JLabel jLabel211;
+    private javax.swing.JLabel jLabel212;
+    private javax.swing.JLabel jLabel213;
+    private javax.swing.JLabel jLabel214;
+    private javax.swing.JLabel jLabel215;
+    private javax.swing.JLabel jLabel216;
+    private javax.swing.JLabel jLabel217;
+    private javax.swing.JLabel jLabel218;
+    private javax.swing.JLabel jLabel219;
     private javax.swing.JLabel jLabel22;
+    private javax.swing.JLabel jLabel220;
+    private javax.swing.JLabel jLabel221;
+    private javax.swing.JLabel jLabel222;
+    private javax.swing.JLabel jLabel223;
+    private javax.swing.JLabel jLabel224;
+    private javax.swing.JLabel jLabel225;
+    private javax.swing.JLabel jLabel226;
+    private javax.swing.JLabel jLabel227;
+    private javax.swing.JLabel jLabel228;
+    private javax.swing.JLabel jLabel229;
     private javax.swing.JLabel jLabel23;
+    private javax.swing.JLabel jLabel230;
+    private javax.swing.JLabel jLabel231;
+    private javax.swing.JLabel jLabel232;
+    private javax.swing.JLabel jLabel233;
+    private javax.swing.JLabel jLabel234;
+    private javax.swing.JLabel jLabel235;
+    private javax.swing.JLabel jLabel236;
+    private javax.swing.JLabel jLabel237;
+    private javax.swing.JLabel jLabel238;
+    private javax.swing.JLabel jLabel239;
     private javax.swing.JLabel jLabel24;
+    private javax.swing.JLabel jLabel240;
+    private javax.swing.JLabel jLabel241;
+    private javax.swing.JLabel jLabel242;
+    private javax.swing.JLabel jLabel243;
+    private javax.swing.JLabel jLabel244;
+    private javax.swing.JLabel jLabel245;
+    private javax.swing.JLabel jLabel246;
+    private javax.swing.JLabel jLabel247;
+    private javax.swing.JLabel jLabel248;
+    private javax.swing.JLabel jLabel249;
     private javax.swing.JLabel jLabel25;
+    private javax.swing.JLabel jLabel250;
+    private javax.swing.JLabel jLabel251;
+    private javax.swing.JLabel jLabel252;
+    private javax.swing.JLabel jLabel253;
+    private javax.swing.JLabel jLabel254;
+    private javax.swing.JLabel jLabel255;
+    private javax.swing.JLabel jLabel256;
+    private javax.swing.JLabel jLabel257;
+    private javax.swing.JLabel jLabel258;
+    private javax.swing.JLabel jLabel259;
     private javax.swing.JLabel jLabel26;
+    private javax.swing.JLabel jLabel260;
+    private javax.swing.JLabel jLabel261;
+    private javax.swing.JLabel jLabel262;
+    private javax.swing.JLabel jLabel263;
     private javax.swing.JLabel jLabel27;
     private javax.swing.JLabel jLabel28;
     private javax.swing.JLabel jLabel29;
@@ -4395,6 +4995,7 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel7;
     private javax.swing.JPanel jPanel8;
     private javax.swing.JPanel jPanel9;
+    private javax.swing.JProgressBar jProgressBar1;
     private javax.swing.JPanel maindisplay;
     private javax.swing.JTextField t101;
     private javax.swing.JTextField t102;
@@ -4417,12 +5018,39 @@ public class SOLID_MENSURATION extends javax.swing.JFrame {
     private javax.swing.JTextField t1202;
     private javax.swing.JTextField t1203;
     private javax.swing.JTextField t13;
+    private javax.swing.JTextField t1301;
+    private javax.swing.JTextField t1302;
+    private javax.swing.JTextField t1303;
     private javax.swing.JTextField t14;
+    private javax.swing.JTextField t1401;
+    private javax.swing.JTextField t1402;
+    private javax.swing.JTextField t1403;
     private javax.swing.JTextField t15;
+    private javax.swing.JTextField t1501;
+    private javax.swing.JTextField t1502;
+    private javax.swing.JTextField t1503;
+    private javax.swing.JTextField t1504;
+    private javax.swing.JTextField t1505;
+    private javax.swing.JTextField t1506;
     private javax.swing.JTextField t16;
+    private javax.swing.JTextField t1601;
+    private javax.swing.JTextField t1602;
+    private javax.swing.JTextField t1603;
+    private javax.swing.JTextField t1604;
     private javax.swing.JTextField t17;
+    private javax.swing.JTextField t1701;
+    private javax.swing.JTextField t1702;
     private javax.swing.JTextField t18;
+    private javax.swing.JTextField t1801;
+    private javax.swing.JTextField t1802;
+    private javax.swing.JTextField t1803;
     private javax.swing.JTextField t19;
+    private javax.swing.JTextField t1901;
+    private javax.swing.JTextField t1902;
+    private javax.swing.JTextField t1903;
+    private javax.swing.JTextField t2001;
+    private javax.swing.JTextField t2002;
+    private javax.swing.JTextField t2003;
     private javax.swing.JTextField t21;
     private javax.swing.JTextField t22;
     private javax.swing.JTextField t23;
